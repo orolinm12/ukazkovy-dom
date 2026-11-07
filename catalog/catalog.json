@@ -1,0 +1,2598 @@
+{
+ "version": 1,
+ "materials": [
+  {
+   "id": "floor_oak_natural",
+   "name": "Dub prírodný – široké dosky",
+   "category": "wood-floor",
+   "maps": {
+    "albedo": "textures/2048/floor_oak_natural_albedo.webp",
+    "normal": "textures/2048/floor_oak_natural_normal.webp",
+    "rough": "textures/2048/floor_oak_natural_rough.webp"
+   },
+   "sizeM": [
+    1.7,
+    1.7
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:laminate_floor_02",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/laminate_floor_02",
+   "note": "",
+   "color": "#9b8063",
+   "rho_tex": 0.2352,
+   "rho": 0.2352,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "floor_oak_light",
+   "name": "Dub svetlý – dosky",
+   "category": "wood-floor",
+   "maps": {
+    "albedo": "textures/2048/floor_oak_light_albedo.webp",
+    "normal": "textures/2048/floor_oak_light_normal.webp",
+    "rough": "textures/2048/floor_oak_light_rough.webp"
+   },
+   "sizeM": [
+    2,
+    2
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:laminate_floor",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/laminate_floor",
+   "note": "",
+   "color": "#957244",
+   "rho_tex": 0.1908,
+   "rho": 0.1908,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "floor_oak_honey",
+   "name": "Dub medový – dosky",
+   "category": "wood-floor",
+   "maps": {
+    "albedo": "textures/2048/floor_oak_honey_albedo.webp",
+    "normal": "textures/2048/floor_oak_honey_normal.webp",
+    "rough": "textures/2048/floor_oak_honey_rough.webp"
+   },
+   "sizeM": [
+    2.08,
+    2.08
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:laminate_floor_03",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/laminate_floor_03",
+   "note": "",
+   "color": "#9a7147",
+   "rho_tex": 0.1945,
+   "rho": 0.1945,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "floor_oak_herringbone",
+   "name": "Dub – rybia kosť",
+   "category": "wood-floor",
+   "maps": {
+    "albedo": "textures/2048/floor_oak_herringbone_albedo.webp",
+    "normal": "textures/2048/floor_oak_herringbone_normal.webp",
+    "rough": "textures/2048/floor_oak_herringbone_rough.webp"
+   },
+   "sizeM": [
+    3.4,
+    3.4
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:herringbone_parquet",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/herringbone_parquet",
+   "note": "",
+   "color": "#926f4d",
+   "rho_tex": 0.1843,
+   "rho": 0.1843,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "floor_walnut",
+   "name": "Orech – dosky",
+   "category": "wood-floor",
+   "maps": {
+    "albedo": "textures/2048/floor_walnut_albedo.webp",
+    "normal": "textures/2048/floor_walnut_normal.webp",
+    "rough": "textures/2048/floor_walnut_rough.webp"
+   },
+   "sizeM": [
+    1.7,
+    1.7
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:wood_floor",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/wood_floor",
+   "note": "",
+   "color": "#7f5f42",
+   "rho_tex": 0.1335,
+   "rho": 0.1335,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "floor_parquet_classic",
+   "name": "Parketa klasická",
+   "category": "wood-floor",
+   "maps": {
+    "albedo": "textures/2048/floor_parquet_classic_albedo.webp",
+    "normal": "textures/2048/floor_parquet_classic_normal.webp",
+    "rough": "textures/2048/floor_parquet_classic_rough.webp"
+   },
+   "sizeM": [
+    2.25,
+    2.25
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:rectangular_parquet",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/rectangular_parquet",
+   "note": "",
+   "color": "#775b32",
+   "rho_tex": 0.1191,
+   "rho": 0.1191,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "tile_stone_beige",
+   "name": "Kameň béžový – veľkoformát",
+   "category": "tile",
+   "maps": {
+    "albedo": "textures/2048/tile_stone_beige_albedo.webp",
+    "normal": "textures/2048/tile_stone_beige_normal.webp",
+    "rough": "textures/2048/tile_stone_beige_rough.webp"
+   },
+   "sizeM": [
+    1.5,
+    1.5
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:marble_01",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/marble_01",
+   "note": "",
+   "color": "#b19c79",
+   "rho_tex": 0.3494,
+   "rho": 0.3494,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "tile_grey_large",
+   "name": "Dlažba sivá – veľkoformát",
+   "category": "tile",
+   "maps": {
+    "albedo": "textures/2048/tile_grey_large_albedo.webp",
+    "normal": "textures/2048/tile_grey_large_normal.webp",
+    "rough": "textures/2048/tile_grey_large_rough.webp"
+   },
+   "sizeM": [
+    3,
+    3
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:large_floor_tiles_02",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/large_floor_tiles_02",
+   "note": "",
+   "color": "#757672",
+   "rho_tex": 0.184,
+   "rho": 0.184,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "tile_microcement_dark",
+   "name": "Mikrocement tmavý",
+   "category": "tile",
+   "maps": {
+    "albedo": "textures/2048/tile_microcement_dark_albedo.webp",
+    "normal": "textures/2048/tile_microcement_dark_normal.webp",
+    "rough": "textures/2048/tile_microcement_dark_rough.webp"
+   },
+   "sizeM": [
+    2,
+    2
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:smooth_concrete_floor",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/smooth_concrete_floor",
+   "note": "",
+   "color": "#543c28",
+   "rho_tex": 0.0542,
+   "rho": 0.0542,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "tile_terrazzo",
+   "name": "Terazzo",
+   "category": "tile",
+   "maps": {
+    "albedo": "textures/2048/tile_terrazzo_albedo.webp",
+    "normal": "textures/2048/tile_terrazzo_normal.webp",
+    "rough": "textures/2048/tile_terrazzo_rough.webp"
+   },
+   "sizeM": [
+    2,
+    2
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:terrazzo_tiles",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/terrazzo_tiles",
+   "note": "",
+   "color": "#896c56",
+   "rho_tex": 0.1703,
+   "rho": 0.1703,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "tile_white_long",
+   "name": "Obklad biely – podlhovastý",
+   "category": "tile",
+   "maps": {
+    "albedo": "textures/2048/tile_white_long_albedo.webp",
+    "normal": "textures/2048/tile_white_long_normal.webp",
+    "rough": "textures/2048/tile_white_long_rough.webp"
+   },
+   "sizeM": [
+    1.27,
+    1.27
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:long_white_tiles",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/long_white_tiles",
+   "note": "",
+   "color": "#cdc6b5",
+   "rho_tex": 0.5791,
+   "rho": 0.5791,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "tile_beige_diagonal",
+   "name": "Dlažba béžová – diagonála",
+   "category": "tile",
+   "maps": {
+    "albedo": "textures/2048/tile_beige_diagonal_albedo.webp",
+    "normal": "textures/2048/tile_beige_diagonal_normal.webp",
+    "rough": "textures/2048/tile_beige_diagonal_rough.webp"
+   },
+   "sizeM": [
+    1.9,
+    1.9
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:interior_tiles",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/interior_tiles",
+   "note": "",
+   "color": "#aa9784",
+   "rho_tex": 0.3322,
+   "rho": 0.3322,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "tile_grey",
+   "name": "Dlažba sivá",
+   "category": "tile",
+   "maps": {
+    "albedo": "textures/2048/tile_grey_albedo.webp",
+    "normal": "textures/2048/tile_grey_normal.webp",
+    "rough": "textures/2048/tile_grey_rough.webp"
+   },
+   "sizeM": [
+    2.2,
+    2.2
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:grey_tiles",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/grey_tiles",
+   "note": "",
+   "color": "#6e6049",
+   "rho_tex": 0.1222,
+   "rho": 0.1222,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "tile_mosaic_brown",
+   "name": "Mozaika hnedá",
+   "category": "tile",
+   "maps": {
+    "albedo": "textures/2048/tile_mosaic_brown_albedo.webp",
+    "normal": "textures/2048/tile_mosaic_brown_normal.webp",
+    "rough": "textures/2048/tile_mosaic_brown_rough.webp"
+   },
+   "sizeM": [
+    2,
+    2
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:square_tiles_03",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/square_tiles_03",
+   "note": "",
+   "color": "#6d6055",
+   "rho_tex": 0.1266,
+   "rho": 0.1266,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "plaster_beige",
+   "name": "Stierka béžová",
+   "category": "plaster",
+   "maps": {
+    "albedo": "textures/2048/plaster_beige_albedo.webp",
+    "normal": "textures/2048/plaster_beige_normal.webp",
+    "rough": "textures/2048/plaster_beige_rough.webp"
+   },
+   "sizeM": [
+    3,
+    3
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:beige_wall_001",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/beige_wall_001",
+   "note": "",
+   "color": "#9d8c78",
+   "rho_tex": 0.2732,
+   "rho": 0.2732,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "plaster_sand",
+   "name": "Stierka piesková",
+   "category": "plaster",
+   "maps": {
+    "albedo": "textures/2048/plaster_sand_albedo.webp",
+    "normal": "textures/2048/plaster_sand_normal.webp",
+    "rough": "textures/2048/plaster_sand_rough.webp"
+   },
+   "sizeM": [
+    3,
+    3
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:beige_wall_002",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/beige_wall_002",
+   "note": "",
+   "color": "#826e55",
+   "rho_tex": 0.1681,
+   "rho": 0.1681,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "plaster_clay",
+   "name": "Hlinená omietka",
+   "category": "plaster",
+   "maps": {
+    "albedo": "textures/2048/plaster_clay_albedo.webp",
+    "normal": "textures/2048/plaster_clay_normal.webp",
+    "rough": "textures/2048/plaster_clay_rough.webp"
+   },
+   "sizeM": [
+    2,
+    2
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:clay_plaster",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/clay_plaster",
+   "note": "",
+   "color": "#72593b",
+   "rho_tex": 0.1123,
+   "rho": 0.1123,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "plaster_grey",
+   "name": "Stierka sivá",
+   "category": "plaster",
+   "maps": {
+    "albedo": "textures/2048/plaster_grey_albedo.webp",
+    "normal": "textures/2048/plaster_grey_normal.webp",
+    "rough": "textures/2048/plaster_grey_rough.webp"
+   },
+   "sizeM": [
+    1,
+    1
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:grey_plaster",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/grey_plaster",
+   "note": "",
+   "color": "#8c8674",
+   "rho_tex": 0.2421,
+   "rho": 0.2421,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "plaster_white_stucco",
+   "name": "Štuk biely",
+   "category": "plaster",
+   "maps": {
+    "albedo": "textures/2048/plaster_white_stucco_albedo.webp",
+    "normal": "textures/2048/plaster_white_stucco_normal.webp",
+    "rough": "textures/2048/plaster_white_stucco_rough.webp"
+   },
+   "sizeM": [
+    1.998,
+    1.998
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:white_stucco",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/white_stucco",
+   "note": "",
+   "color": "#d7d2cf",
+   "rho_tex": 0.6558,
+   "rho": 0.6558,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "plaster_light",
+   "name": "Omietka svetlá",
+   "category": "plaster",
+   "maps": {
+    "albedo": "textures/2048/plaster_light_albedo.webp",
+    "normal": "textures/2048/plaster_light_normal.webp",
+    "rough": "textures/2048/plaster_light_rough.webp"
+   },
+   "sizeM": [
+    2,
+    2
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:plastered_wall",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/plastered_wall",
+   "note": "",
+   "color": "#b0a89c",
+   "rho_tex": 0.397,
+   "rho": 0.397,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "plaster_concrete",
+   "name": "Betón pohľadový",
+   "category": "plaster",
+   "maps": {
+    "albedo": "textures/2048/plaster_concrete_albedo.webp",
+    "normal": "textures/2048/plaster_concrete_normal.webp",
+    "rough": "textures/2048/plaster_concrete_rough.webp"
+   },
+   "sizeM": [
+    2.71,
+    2.71
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:concrete_wall_008",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/concrete_wall_008",
+   "note": "",
+   "color": "#8c856f",
+   "rho_tex": 0.2373,
+   "rho": 0.2373,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "plaster_structured",
+   "name": "Štruktúrovaná omietka",
+   "category": "plaster",
+   "maps": {
+    "albedo": "textures/2048/plaster_structured_albedo.webp",
+    "normal": "textures/2048/plaster_structured_normal.webp",
+    "rough": "textures/2048/plaster_structured_rough.webp"
+   },
+   "sizeM": [
+    2,
+    2
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:patterned_clay_plaster",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/patterned_clay_plaster",
+   "note": "",
+   "color": "#a4907f",
+   "rho_tex": 0.2981,
+   "rho": 0.2981,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "brick_old_red",
+   "name": "Tehla stará červená",
+   "category": "brick",
+   "maps": {
+    "albedo": "textures/2048/brick_old_red_albedo.webp",
+    "normal": "textures/2048/brick_old_red_normal.webp",
+    "rough": "textures/2048/brick_old_red_rough.webp"
+   },
+   "sizeM": [
+    1.4,
+    1.4
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:red_brick",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/red_brick",
+   "note": "",
+   "color": "#8e6650",
+   "rho_tex": 0.1631,
+   "rho": 0.1631,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "brick_mixed",
+   "name": "Tehla mix",
+   "category": "brick",
+   "maps": {
+    "albedo": "textures/2048/brick_mixed_albedo.webp",
+    "normal": "textures/2048/brick_mixed_normal.webp",
+    "rough": "textures/2048/brick_mixed_rough.webp"
+   },
+   "sizeM": [
+    1.7,
+    1.7
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:mixed_brick_wall",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/mixed_brick_wall",
+   "note": "",
+   "color": "#83715f",
+   "rho_tex": 0.1932,
+   "rho": 0.1932,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "brick_whitewashed",
+   "name": "Tehla bielená",
+   "category": "brick",
+   "maps": {
+    "albedo": "textures/2048/brick_whitewashed_albedo.webp",
+    "normal": "textures/2048/brick_whitewashed_normal.webp",
+    "rough": "textures/2048/brick_whitewashed_rough.webp"
+   },
+   "sizeM": [
+    1.5,
+    1.5
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:white_bricks",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/white_bricks",
+   "note": "",
+   "color": "#8c7f6a",
+   "rho_tex": 0.2411,
+   "rho": 0.2411,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "brick_dark",
+   "name": "Tehla tmavá",
+   "category": "brick",
+   "maps": {
+    "albedo": "textures/2048/brick_dark_albedo.webp",
+    "normal": "textures/2048/brick_dark_normal.webp",
+    "rough": "textures/2048/brick_dark_rough.webp"
+   },
+   "sizeM": [
+    1.44,
+    1.44
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:brick_wall_005",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/brick_wall_005",
+   "note": "",
+   "color": "#856a54",
+   "rho_tex": 0.1784,
+   "rho": 0.1784,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "wood_oak",
+   "name": "Dub dyha prírodný",
+   "category": "wood",
+   "maps": {
+    "albedo": "textures/2048/wood_oak_albedo.webp",
+    "normal": "textures/2048/wood_oak_normal.webp",
+    "rough": "textures/2048/wood_oak_rough.webp"
+   },
+   "sizeM": [
+    1.83,
+    1.83
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:oak_veneer_01",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/oak_veneer_01",
+   "note": "",
+   "color": "#a17e57",
+   "rho_tex": 0.2337,
+   "rho": 0.2337,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "wood_oak_warm",
+   "name": "Dub dyha teplý",
+   "category": "wood",
+   "maps": {
+    "albedo": "textures/2048/wood_oak_warm_albedo.webp",
+    "normal": "textures/2048/wood_oak_warm_normal.webp",
+    "rough": "textures/2048/wood_oak_warm_rough.webp"
+   },
+   "sizeM": [
+    1,
+    1
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:oak_veneer_05",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/oak_veneer_05",
+   "note": "",
+   "color": "#a88a70",
+   "rho_tex": 0.2785,
+   "rho": 0.2785,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "wood_oak_white",
+   "name": "Dub dyha bielený",
+   "category": "wood",
+   "maps": {
+    "albedo": "textures/2048/wood_oak_white_albedo.webp",
+    "normal": "textures/2048/wood_oak_white_normal.webp",
+    "rough": "textures/2048/wood_oak_white_rough.webp"
+   },
+   "sizeM": [
+    0.5,
+    0.5
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:white_oak_veneer",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/white_oak_veneer",
+   "note": "",
+   "color": "#8f7962",
+   "rho_tex": 0.2056,
+   "rho": 0.2056,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "wood_oak_grey",
+   "name": "Dub dyha sivý",
+   "category": "wood",
+   "maps": {
+    "albedo": "textures/2048/wood_oak_grey_albedo.webp",
+    "normal": "textures/2048/wood_oak_grey_normal.webp",
+    "rough": "textures/2048/wood_oak_grey_rough.webp"
+   },
+   "sizeM": [
+    1,
+    1
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:washed_grey_oak_veneer",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/washed_grey_oak_veneer",
+   "note": "",
+   "color": "#cdb6a2",
+   "rho_tex": 0.4941,
+   "rho": 0.4941,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "wood_walnut",
+   "name": "Orech dyha",
+   "category": "wood",
+   "maps": {
+    "albedo": "textures/2048/wood_walnut_albedo.webp",
+    "normal": "textures/2048/wood_walnut_normal.webp",
+    "rough": "textures/2048/wood_walnut_rough.webp"
+   },
+   "sizeM": [
+    1.8,
+    1.8
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:walnut_veneer",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/walnut_veneer",
+   "note": "",
+   "color": "#8a6950",
+   "rho_tex": 0.1622,
+   "rho": 0.1622,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "wood_walnut_smoked",
+   "name": "Orech údený",
+   "category": "wood",
+   "maps": {
+    "albedo": "textures/2048/wood_walnut_smoked_albedo.webp",
+    "normal": "textures/2048/wood_walnut_smoked_normal.webp",
+    "rough": "textures/2048/wood_walnut_smoked_rough.webp"
+   },
+   "sizeM": [
+    1,
+    1
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:smoked_walnut_veneer",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/smoked_walnut_veneer",
+   "note": "",
+   "color": "#ba997d",
+   "rho_tex": 0.3542,
+   "rho": 0.3542,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "wood_oak_black",
+   "name": "Dub čierny",
+   "category": "wood",
+   "maps": {
+    "albedo": "textures/2048/wood_oak_black_albedo.webp",
+    "normal": "textures/2048/wood_oak_black_normal.webp",
+    "rough": "textures/2048/wood_oak_black_rough.webp"
+   },
+   "sizeM": [
+    1,
+    1
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:black_oak_veneer",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/black_oak_veneer",
+   "note": "",
+   "color": "#6a6157",
+   "rho_tex": 0.1243,
+   "rho": 0.1243,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "wood_teak",
+   "name": "Teak",
+   "category": "wood",
+   "maps": {
+    "albedo": "textures/2048/wood_teak_albedo.webp",
+    "normal": "textures/2048/wood_teak_normal.webp",
+    "rough": "textures/2048/wood_teak_rough.webp"
+   },
+   "sizeM": [
+    1,
+    1
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:teak_veneer",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/teak_veneer",
+   "note": "",
+   "color": "#af8156",
+   "rho_tex": 0.2588,
+   "rho": 0.2588,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "fabric_boucle",
+   "name": "Vlna kockovaná",
+   "category": "fabric",
+   "maps": {
+    "albedo": "textures/2048/fabric_boucle_albedo.webp",
+    "normal": "textures/2048/fabric_boucle_normal.webp",
+    "rough": "textures/2048/fabric_boucle_rough.webp"
+   },
+   "sizeM": [
+    0.315,
+    0.39
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:wool_boucle",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/wool_boucle",
+   "note": "",
+   "color": "#756c60",
+   "rho_tex": 0.2025,
+   "rho": 0.2025,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "fabric_teddy",
+   "name": "Bouclé / teddy",
+   "category": "fabric",
+   "maps": {
+    "albedo": "textures/2048/fabric_teddy_albedo.webp",
+    "normal": "textures/2048/fabric_teddy_normal.webp",
+    "rough": "textures/2048/fabric_teddy_rough.webp"
+   },
+   "sizeM": [
+    0.336,
+    0.331
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:curly_teddy_natural",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/curly_teddy_natural",
+   "note": "",
+   "color": "#e8d2bb",
+   "rho_tex": 0.6746,
+   "rho": 0.6746,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "fabric_linen",
+   "name": "Ľan",
+   "category": "fabric",
+   "maps": {
+    "albedo": "textures/2048/fabric_linen_albedo.webp",
+    "normal": "textures/2048/fabric_linen_normal.webp",
+    "rough": "textures/2048/fabric_linen_rough.webp"
+   },
+   "sizeM": [
+    0.271,
+    0.271
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:rough_linen",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/rough_linen",
+   "note": "",
+   "color": "#91abcd",
+   "rho_tex": 0.3964,
+   "rho": 0.3964,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "fabric_velvet",
+   "name": "Zamat",
+   "category": "fabric",
+   "maps": {
+    "albedo": "textures/2048/fabric_velvet_albedo.webp",
+    "normal": "textures/2048/fabric_velvet_normal.webp",
+    "rough": "textures/2048/fabric_velvet_rough.webp"
+   },
+   "sizeM": [
+    0.284,
+    0.273
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:velour_velvet",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/velour_velvet",
+   "note": "",
+   "color": "#7d8a6a",
+   "rho_tex": 0.113,
+   "rho": 0.2358,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "fabric_corduroy",
+   "name": "Menčester",
+   "category": "fabric",
+   "maps": {
+    "albedo": "textures/2048/fabric_corduroy_albedo.webp",
+    "normal": "textures/2048/fabric_corduroy_normal.webp",
+    "rough": "textures/2048/fabric_corduroy_rough.webp"
+   },
+   "sizeM": [
+    0.266,
+    0.267
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:ribbed_corduroy",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/ribbed_corduroy",
+   "note": "",
+   "color": "#8c9380",
+   "rho_tex": 0.2826,
+   "rho": 0.2826,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "fabric_herringbone",
+   "name": "Vlna – rybia kosť",
+   "category": "fabric",
+   "maps": {
+    "albedo": "textures/2048/fabric_herringbone_albedo.webp",
+    "normal": "textures/2048/fabric_herringbone_normal.webp",
+    "rough": "textures/2048/fabric_herringbone_rough.webp"
+   },
+   "sizeM": [
+    0.27,
+    0.276
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:poly_wool_herringbone",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/poly_wool_herringbone",
+   "note": "",
+   "color": "#787570",
+   "rho_tex": 0.181,
+   "rho": 0.181,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "fabric_suede",
+   "name": "Semiš",
+   "category": "fabric",
+   "maps": {
+    "albedo": "textures/2048/fabric_suede_albedo.webp",
+    "normal": "textures/2048/fabric_suede_normal.webp",
+    "rough": "textures/2048/fabric_suede_rough.webp"
+   },
+   "sizeM": [
+    0.285,
+    0.279
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": true,
+   "source": "polyhaven:scuba_suede",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/scuba_suede",
+   "note": "",
+   "color": "#b9a58e",
+   "rho_tex": 0.0935,
+   "rho": 0.3918,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "fabric_jute",
+   "name": "Juta",
+   "category": "fabric",
+   "maps": {
+    "albedo": "textures/2048/fabric_jute_albedo.webp",
+    "normal": "textures/2048/fabric_jute_normal.webp",
+    "rough": "textures/2048/fabric_jute_rough.webp"
+   },
+   "sizeM": [
+    0.274,
+    0.274
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:hessian_380",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/hessian_380",
+   "note": "",
+   "color": "#af906a",
+   "rho_tex": 0.3027,
+   "rho": 0.3027,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "leather_white",
+   "name": "Koža biela",
+   "category": "leather",
+   "maps": {
+    "albedo": "textures/2048/leather_white_albedo.webp",
+    "normal": "textures/2048/leather_white_normal.webp",
+    "rough": "textures/2048/leather_white_rough.webp"
+   },
+   "sizeM": [
+    0.3,
+    0.3
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:leather_white",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/leather_white",
+   "note": "",
+   "color": "#95927f",
+   "rho_tex": 0.2869,
+   "rho": 0.2869,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "leather_brown",
+   "name": "Koža hnedá",
+   "category": "leather",
+   "maps": {
+    "albedo": "textures/2048/leather_brown_albedo.webp",
+    "normal": "textures/2048/leather_brown_normal.webp",
+    "rough": "textures/2048/leather_brown_rough.webp"
+   },
+   "sizeM": [
+    0.4,
+    0.4
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:brown_leather",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/brown_leather",
+   "note": "",
+   "color": "#502d0f",
+   "rho_tex": 0.0371,
+   "rho": 0.0371,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "leather_cognac",
+   "name": "Koža koňaková",
+   "category": "leather",
+   "maps": {
+    "albedo": "textures/2048/leather_cognac_albedo.webp",
+    "normal": "textures/2048/leather_cognac_normal.webp",
+    "rough": "textures/2048/leather_cognac_rough.webp"
+   },
+   "sizeM": [
+    0.5,
+    0.5
+   ],
+   "roughness": 1,
+   "metalness": 0,
+   "tint": false,
+   "source": "polyhaven:fabric_leather_02",
+   "license": "CC0",
+   "vendor": null,
+   "code": null,
+   "url": "https://polyhaven.com/a/fabric_leather_02",
+   "note": "",
+   "color": "#804d1a",
+   "rho_tex": 0.1024,
+   "rho": 0.1024,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_white_warm",
+   "name": "Biela teplá",
+   "category": "paint",
+   "color": "#f1eee7",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.8562,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_cream",
+   "name": "Krémová",
+   "category": "paint",
+   "color": "#ede6d6",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.7945,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_greige_light",
+   "name": "Greige svetlá",
+   "category": "paint",
+   "color": "#dcd4c8",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.6647,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_greige",
+   "name": "Greige",
+   "category": "paint",
+   "color": "#cfc6b8",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.5711,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_cashmere",
+   "name": "Kašmír",
+   "category": "paint",
+   "color": "#c8b9a6",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.4973,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_taupe",
+   "name": "Taupe",
+   "category": "paint",
+   "color": "#a89a8a",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.3327,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_mocca",
+   "name": "Mocca",
+   "category": "paint",
+   "color": "#8b7766",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.1964,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_sage_light",
+   "name": "Šalviová svetlá",
+   "category": "paint",
+   "color": "#c7cdbb",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.5939,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_sage",
+   "name": "Šalviová",
+   "category": "paint",
+   "color": "#a7b39a",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.4279,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_olive",
+   "name": "Olivová",
+   "category": "paint",
+   "color": "#7e8565",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.2215,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_kids_green",
+   "name": "Zelená detská",
+   "category": "paint",
+   "color": "#93a86f",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.3536,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_blush",
+   "name": "Púdrová ružová",
+   "category": "paint",
+   "color": "#e8cfc7",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.659,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_kids_pink",
+   "name": "Ružová detská",
+   "category": "paint",
+   "color": "#e2b2aa",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.5091,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_dusty_rose",
+   "name": "Staroružová",
+   "category": "paint",
+   "color": "#d4a9a0",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.4491,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_terracotta",
+   "name": "Terakota",
+   "category": "paint",
+   "color": "#c27c5e",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.2669,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_ochre",
+   "name": "Okrová",
+   "category": "paint",
+   "color": "#c9a46b",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.4003,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_grey_light",
+   "name": "Sivá svetlá",
+   "category": "paint",
+   "color": "#d9d9d6",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.6923,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_grey",
+   "name": "Sivá",
+   "category": "paint",
+   "color": "#a9aaa7",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.3997,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_slate",
+   "name": "Bridlicová sivá",
+   "category": "paint",
+   "color": "#6c6e70",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.1551,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_anthracite",
+   "name": "Antracit",
+   "category": "paint",
+   "color": "#4a4b4d",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.0702,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_smoke_blue",
+   "name": "Modrá dymová",
+   "category": "paint",
+   "color": "#9aa7b0",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.3764,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_petrol",
+   "name": "Petrolejová",
+   "category": "paint",
+   "color": "#4f6b70",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.1335,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_bottle_green",
+   "name": "Zelená fľašová",
+   "category": "paint",
+   "color": "#3f5546",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.08,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paint_black",
+   "name": "Čierna matná",
+   "category": "paint",
+   "color": "#262626",
+   "roughness": 0.92,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "rho": 0.0194,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "lacquer_taupe",
+   "name": "Lak taupe matný",
+   "category": "lacquer",
+   "color": "#b5a99a",
+   "roughness": 0.55,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.4053,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "lacquer_cashmere",
+   "name": "Lak kašmír",
+   "category": "lacquer",
+   "color": "#cbbfaf",
+   "roughness": 0.55,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.5305,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "lacquer_white",
+   "name": "Lak biely matný",
+   "category": "lacquer",
+   "color": "#eeebe4",
+   "roughness": 0.5,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.832,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "lacquer_beige",
+   "name": "Lak béžový",
+   "category": "lacquer",
+   "color": "#d8cdbe",
+   "roughness": 0.55,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.6198,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "lacquer_sage",
+   "name": "Lak šalviový",
+   "category": "lacquer",
+   "color": "#a9b39c",
+   "roughness": 0.55,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.4308,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "lacquer_blush",
+   "name": "Lak púdrový",
+   "category": "lacquer",
+   "color": "#e3c8be",
+   "roughness": 0.55,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.6136,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "lacquer_graphite",
+   "name": "Lak grafit",
+   "category": "lacquer",
+   "color": "#3e3f41",
+   "roughness": 0.5,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.0496,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "metal_black",
+   "name": "Čierny kov matný",
+   "category": "metal",
+   "color": "#1c1c1c",
+   "roughness": 0.45,
+   "metalness": 0.85,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.0116,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "metal_brass",
+   "name": "Mosadz brúsená",
+   "category": "metal",
+   "color": "#c9a15b",
+   "roughness": 0.33,
+   "metalness": 1,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.3866,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "metal_steel",
+   "name": "Nerez brúsená",
+   "category": "metal",
+   "color": "#b9bbbd",
+   "roughness": 0.3,
+   "metalness": 1,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.4953,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "metal_gunmetal",
+   "name": "Gunmetal",
+   "category": "metal",
+   "color": "#4d4f52",
+   "roughness": 0.38,
+   "metalness": 1,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.0778,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "metal_alu_dark",
+   "name": "Hliník tmavosivý",
+   "category": "metal",
+   "color": "#3a3b3d",
+   "roughness": 0.45,
+   "metalness": 0.7,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.0436,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "ceramic_white",
+   "name": "Keramika biela",
+   "category": "ceramic",
+   "color": "#f2f0ec",
+   "roughness": 0.12,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.8725,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "ceramic_beige",
+   "name": "Keramika béžová",
+   "category": "ceramic",
+   "color": "#d9ccbd",
+   "roughness": 0.25,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.6161,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "ceramic_black",
+   "name": "Keramika čierna",
+   "category": "ceramic",
+   "color": "#2a2a2a",
+   "roughness": 0.2,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.0232,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "stone_travertine",
+   "name": "Travertín (mat)",
+   "category": "stone",
+   "color": "#d6c8b3",
+   "roughness": 0.6,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.5886,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "stone_concrete_beige",
+   "name": "Betón béžový",
+   "category": "stone",
+   "color": "#c8bcab",
+   "roughness": 0.75,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.5119,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "mirror_silver",
+   "name": "Zrkadlo",
+   "category": "metal",
+   "color": "#eceeee",
+   "roughness": 0.02,
+   "metalness": 1,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.8515,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "appliance_black",
+   "name": "Čierne sklo (spotrebiče)",
+   "category": "ceramic",
+   "color": "#0e0e0f",
+   "roughness": 0.25,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.005,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "paper_white",
+   "name": "Papier biely",
+   "category": "paint",
+   "color": "#efebe3",
+   "roughness": 0.9,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": true,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.8331,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "glass_clear",
+   "name": "Sklo číre",
+   "category": "glass",
+   "color": "#f2f5f4",
+   "roughness": 0.02,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.9071,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "glass_smoked",
+   "name": "Sklo dymové",
+   "category": "glass",
+   "color": "#5a5650",
+   "roughness": 0.05,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.0941,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  },
+  {
+   "id": "glass_amber",
+   "name": "Sklo jantárové",
+   "category": "glass",
+   "color": "#8a6a3c",
+   "roughness": 0.05,
+   "metalness": 0,
+   "maps": {},
+   "sizeM": [
+    1,
+    1
+   ],
+   "tint": false,
+   "source": "own",
+   "license": "own",
+   "vendor": null,
+   "code": null,
+   "url": null,
+   "note": "",
+   "rho": 0.1604,
+   "mapSizes": [
+    2048,
+    1024,
+    512
+   ]
+  }
+ ]
+}
