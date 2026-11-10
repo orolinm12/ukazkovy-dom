@@ -1,0 +1,153 @@
+{
+ "id": "coffee_table_slab",
+ "name": "Konferenčný stolík dubový s doskovými nohami 120x60",
+ "category": "stolik",
+ "role": [
+  "coffee_table"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "coffee_table",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.2,
+  0.6,
+  0.36
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.54,
+   -0.3
+  ],
+  [
+   0.54,
+   -0.3
+  ],
+  [
+   0.559,
+   -0.297
+  ],
+  [
+   0.575,
+   -0.289
+  ],
+  [
+   0.589,
+   -0.275
+  ],
+  [
+   0.597,
+   -0.259
+  ],
+  [
+   0.6,
+   -0.24
+  ],
+  [
+   0.6,
+   0.24
+  ],
+  [
+   0.597,
+   0.259
+  ],
+  [
+   0.589,
+   0.275
+  ],
+  [
+   0.575,
+   0.289
+  ],
+  [
+   0.559,
+   0.297
+  ],
+  [
+   0.54,
+   0.3
+  ],
+  [
+   -0.54,
+   0.3
+  ],
+  [
+   -0.559,
+   0.297
+  ],
+  [
+   -0.575,
+   0.289
+  ],
+  [
+   -0.589,
+   0.275
+  ],
+  [
+   -0.597,
+   0.259
+  ],
+  [
+   -0.6,
+   0.24
+  ],
+  [
+   -0.6,
+   -0.24
+  ],
+  [
+   -0.597,
+   -0.259
+  ],
+  [
+   -0.589,
+   -0.275
+  ],
+  [
+   -0.575,
+   -0.289
+  ],
+  [
+   -0.559,
+   -0.297
+  ]
+ ],
+ "clearance": {
+  "front": 0.4,
+  "back": 0.4,
+  "sides": 0.3
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.016,
+   2.016
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 1264,
+ "bytes": 17504,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

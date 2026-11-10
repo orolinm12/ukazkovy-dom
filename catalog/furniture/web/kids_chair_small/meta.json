@@ -1,0 +1,152 @@
+{
+ "id": "kids_chair_small",
+ "name": "Detská stolička drevená s oblúkovým operadlom",
+ "category": "stolicka",
+ "role": [
+  "kids_chair"
+ ],
+ "styles": [
+  "svetly-skandinavsky"
+ ],
+ "swapGroup": "kids_chair",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.345,
+  0.35,
+  0.601
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.102,
+   -0.175
+  ],
+  [
+   0.102,
+   -0.175
+  ],
+  [
+   0.113,
+   -0.174
+  ],
+  [
+   0.124,
+   -0.172
+  ],
+  [
+   0.144,
+   -0.162
+  ],
+  [
+   0.161,
+   -0.15
+  ],
+  [
+   0.163,
+   -0.146
+  ],
+  [
+   0.172,
+   -0.116
+  ],
+  [
+   0.172,
+   0.096
+  ],
+  [
+   0.164,
+   0.142
+  ],
+  [
+   0.161,
+   0.15
+  ],
+  [
+   0.148,
+   0.17
+  ],
+  [
+   0.139,
+   0.175
+  ],
+  [
+   -0.139,
+   0.175
+  ],
+  [
+   -0.148,
+   0.17
+  ],
+  [
+   -0.161,
+   0.15
+  ],
+  [
+   -0.164,
+   0.142
+  ],
+  [
+   -0.172,
+   0.096
+  ],
+  [
+   -0.172,
+   -0.116
+  ],
+  [
+   -0.163,
+   -0.146
+  ],
+  [
+   -0.161,
+   -0.15
+  ],
+  [
+   -0.144,
+   -0.162
+  ],
+  [
+   -0.124,
+   -0.172
+  ],
+  [
+   -0.113,
+   -0.174
+  ]
+ ],
+ "clearance": {
+  "front": 0.2,
+  "back": 0.1,
+  "sides": 0.05
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.311,
+   1.311
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 3572,
+ "bytes": 39716,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

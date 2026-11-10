@@ -1,0 +1,152 @@
+{
+ "id": "counter_stool_low",
+ "name": "Nízka barová stolička drevená so štvorcovým sedákom",
+ "category": "stolicka",
+ "role": [
+  "bar_stool"
+ ],
+ "styles": [
+  "prirodny-japandi"
+ ],
+ "swapGroup": "bar_stool",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.45,
+  0.45,
+  0.65
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.058,
+   -0.225
+  ],
+  [
+   0.058,
+   -0.225
+  ],
+  [
+   0.106,
+   -0.221
+  ],
+  [
+   0.153,
+   -0.208
+  ],
+  [
+   0.19,
+   -0.19
+  ],
+  [
+   0.221,
+   -0.106
+  ],
+  [
+   0.225,
+   -0.058
+  ],
+  [
+   0.225,
+   0.058
+  ],
+  [
+   0.221,
+   0.106
+  ],
+  [
+   0.208,
+   0.153
+  ],
+  [
+   0.19,
+   0.19
+  ],
+  [
+   0.106,
+   0.221
+  ],
+  [
+   0.058,
+   0.225
+  ],
+  [
+   -0.058,
+   0.225
+  ],
+  [
+   -0.106,
+   0.221
+  ],
+  [
+   -0.153,
+   0.208
+  ],
+  [
+   -0.19,
+   0.19
+  ],
+  [
+   -0.221,
+   0.106
+  ],
+  [
+   -0.225,
+   0.058
+  ],
+  [
+   -0.225,
+   -0.058
+  ],
+  [
+   -0.221,
+   -0.106
+  ],
+  [
+   -0.208,
+   -0.153
+  ],
+  [
+   -0.19,
+   -0.19
+  ],
+  [
+   -0.106,
+   -0.221
+  ]
+ ],
+ "clearance": {
+  "front": 0.2,
+  "back": 0.1,
+  "sides": 0.05
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.44,
+   1.44
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 4956,
+ "bytes": 60292,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

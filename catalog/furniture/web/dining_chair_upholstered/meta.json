@@ -1,0 +1,142 @@
+{
+ "id": "dining_chair_upholstered",
+ "name": "Jedálenská stolička čalúnená na čiernom kovovom ráme",
+ "category": "jedalenska-stolicka",
+ "role": [
+  "dining_chair"
+ ],
+ "styles": [
+  "moderny-tmavy"
+ ],
+ "swapGroup": "dining_chair",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.499,
+  0.555,
+  0.823
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.242,
+   -0.278
+  ],
+  [
+   0.242,
+   -0.278
+  ],
+  [
+   0.246,
+   -0.276
+  ],
+  [
+   0.249,
+   -0.273
+  ],
+  [
+   0.25,
+   -0.269
+  ],
+  [
+   0.25,
+   0.261
+  ],
+  [
+   0.249,
+   0.265
+  ],
+  [
+   0.246,
+   0.269
+  ],
+  [
+   0.242,
+   0.271
+  ],
+  [
+   0.039,
+   0.277
+  ],
+  [
+   0.0,
+   0.278
+  ],
+  [
+   -0.039,
+   0.277
+  ],
+  [
+   -0.242,
+   0.271
+  ],
+  [
+   -0.246,
+   0.269
+  ],
+  [
+   -0.249,
+   0.265
+  ],
+  [
+   -0.25,
+   0.261
+  ],
+  [
+   -0.25,
+   -0.269
+  ],
+  [
+   -0.249,
+   -0.273
+  ],
+  [
+   -0.246,
+   -0.276
+  ]
+ ],
+ "clearance": {
+  "front": 0.2,
+  "back": 0.1,
+  "sides": 0.05
+ },
+ "parts": {
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.649,
+   1.649
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 14408,
+ "bytes": 137164,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

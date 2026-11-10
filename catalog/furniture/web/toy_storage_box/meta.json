@@ -1,0 +1,115 @@
+{
+ "id": "toy_storage_box",
+ "name": "Detský box na hračky drevený s textilným vekom",
+ "category": "komoda",
+ "role": [
+  "kids_storage"
+ ],
+ "styles": [
+  "svetly-skandinavsky"
+ ],
+ "swapGroup": "kids_storage",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.6,
+  0.4,
+  0.404
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.297,
+   -0.2
+  ],
+  [
+   0.297,
+   -0.2
+  ],
+  [
+   0.299,
+   -0.199
+  ],
+  [
+   0.3,
+   -0.197
+  ],
+  [
+   0.3,
+   0.197
+  ],
+  [
+   0.299,
+   0.199
+  ],
+  [
+   0.297,
+   0.2
+  ],
+  [
+   -0.297,
+   0.2
+  ],
+  [
+   -0.299,
+   0.199
+  ],
+  [
+   -0.3,
+   0.197
+  ],
+  [
+   -0.3,
+   -0.197
+  ],
+  [
+   -0.299,
+   -0.199
+  ]
+ ],
+ "clearance": {
+  "front": 0.5,
+  "back": 0.0,
+  "sides": 0.0
+ },
+ "parts": {
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.442,
+   1.442
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 5724,
+ "bytes": 60240,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

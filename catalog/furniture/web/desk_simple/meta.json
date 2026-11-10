@@ -1,0 +1,163 @@
+{
+ "id": "desk_simple",
+ "name": "Písací stôl dubový s kovovými sánkovými nohami 140x70",
+ "category": "pisaci-stol",
+ "role": [
+  "desk"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "moderny-tmavy"
+ ],
+ "swapGroup": "desk",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.4,
+  0.7,
+  0.74
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.686,
+   -0.35
+  ],
+  [
+   0.686,
+   -0.35
+  ],
+  [
+   0.689,
+   -0.349
+  ],
+  [
+   0.695,
+   -0.345
+  ],
+  [
+   0.697,
+   -0.342
+  ],
+  [
+   0.699,
+   -0.339
+  ],
+  [
+   0.7,
+   -0.336
+  ],
+  [
+   0.7,
+   0.336
+  ],
+  [
+   0.699,
+   0.339
+  ],
+  [
+   0.697,
+   0.342
+  ],
+  [
+   0.695,
+   0.345
+  ],
+  [
+   0.689,
+   0.349
+  ],
+  [
+   0.686,
+   0.35
+  ],
+  [
+   -0.686,
+   0.35
+  ],
+  [
+   -0.689,
+   0.349
+  ],
+  [
+   -0.695,
+   0.345
+  ],
+  [
+   -0.697,
+   0.342
+  ],
+  [
+   -0.699,
+   0.339
+  ],
+  [
+   -0.7,
+   0.336
+  ],
+  [
+   -0.7,
+   -0.336
+  ],
+  [
+   -0.699,
+   -0.339
+  ],
+  [
+   -0.697,
+   -0.342
+  ],
+  [
+   -0.695,
+   -0.345
+  ],
+  [
+   -0.689,
+   -0.349
+  ]
+ ],
+ "clearance": {
+  "front": 0.8,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.444,
+   2.444
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 4124,
+ "bytes": 43332,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

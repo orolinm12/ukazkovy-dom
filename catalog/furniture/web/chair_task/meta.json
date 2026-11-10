@@ -1,0 +1,174 @@
+{
+ "id": "chair_task",
+ "name": "Kancelárska stolička čalúnená s hviezdicovou základňou",
+ "category": "kancelarska-stolicka",
+ "role": [
+  "office_chair"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "moderny-tmavy"
+ ],
+ "swapGroup": "office_chair",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.625,
+  0.633,
+  1.037
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.016,
+   -0.317
+  ],
+  [
+   0.016,
+   -0.317
+  ],
+  [
+   0.223,
+   -0.27
+  ],
+  [
+   0.236,
+   -0.262
+  ],
+  [
+   0.309,
+   -0.177
+  ],
+  [
+   0.312,
+   -0.173
+  ],
+  [
+   0.312,
+   0.062
+  ],
+  [
+   0.219,
+   0.291
+  ],
+  [
+   0.212,
+   0.297
+  ],
+  [
+   0.159,
+   0.305
+  ],
+  [
+   0.106,
+   0.312
+  ],
+  [
+   0.053,
+   0.316
+  ],
+  [
+   0.0,
+   0.317
+  ],
+  [
+   -0.053,
+   0.316
+  ],
+  [
+   -0.106,
+   0.312
+  ],
+  [
+   -0.159,
+   0.305
+  ],
+  [
+   -0.212,
+   0.297
+  ],
+  [
+   -0.219,
+   0.291
+  ],
+  [
+   -0.312,
+   0.062
+  ],
+  [
+   -0.312,
+   -0.173
+  ],
+  [
+   -0.309,
+   -0.177
+  ],
+  [
+   -0.236,
+   -0.262
+  ],
+  [
+   -0.23,
+   -0.267
+  ],
+  [
+   -0.216,
+   -0.272
+  ]
+ ],
+ "clearance": {
+  "front": 0.3,
+  "back": 0.3,
+  "sides": 0.1
+ },
+ "parts": {
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  },
+  "plastic": {
+   "materialRole": "ine",
+   "default": {
+    "mat": "lacquer_graphite"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.834,
+   1.834
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 18352,
+ "bytes": 185016,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

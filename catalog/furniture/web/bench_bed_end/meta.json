@@ -1,0 +1,163 @@
+{
+ "id": "bench_bed_end",
+ "name": "Lavica k posteli čalúnená na drevených nohách",
+ "category": "lavica",
+ "role": [
+  "bench"
+ ],
+ "styles": [
+  "moderny-tmavy"
+ ],
+ "swapGroup": "bench",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.199,
+  0.4,
+  0.45
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   0.039,
+   -0.2
+  ],
+  [
+   0.35,
+   -0.198
+  ],
+  [
+   0.544,
+   -0.195
+  ],
+  [
+   0.564,
+   -0.191
+  ],
+  [
+   0.592,
+   -0.164
+  ],
+  [
+   0.597,
+   -0.144
+  ],
+  [
+   0.599,
+   0.072
+  ],
+  [
+   0.597,
+   0.144
+  ],
+  [
+   0.592,
+   0.164
+  ],
+  [
+   0.564,
+   0.191
+  ],
+  [
+   0.544,
+   0.195
+  ],
+  [
+   0.389,
+   0.198
+  ],
+  [
+   0.0,
+   0.2
+  ],
+  [
+   -0.194,
+   0.2
+  ],
+  [
+   -0.388,
+   0.198
+  ],
+  [
+   -0.544,
+   0.195
+  ],
+  [
+   -0.572,
+   0.186
+  ],
+  [
+   -0.586,
+   0.172
+  ],
+  [
+   -0.596,
+   0.144
+  ],
+  [
+   -0.599,
+   0.036
+  ],
+  [
+   -0.597,
+   -0.144
+  ],
+  [
+   -0.587,
+   -0.173
+  ],
+  [
+   -0.544,
+   -0.195
+  ],
+  [
+   -0.272,
+   -0.199
+  ]
+ ],
+ "clearance": {
+  "front": 0.4,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.069,
+   2.069
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 6092,
+ "bytes": 58468,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

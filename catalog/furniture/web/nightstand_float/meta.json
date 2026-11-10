@@ -1,0 +1,99 @@
+{
+ "id": "nightstand_float",
+ "name": "Nočný stolík dubový na kovových nožičkách",
+ "category": "nocny-stolik",
+ "role": [
+  "nightstand"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "moderny-tmavy"
+ ],
+ "swapGroup": "nightstand",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.5,
+  0.38,
+  0.5
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.249,
+   -0.19
+  ],
+  [
+   0.249,
+   -0.19
+  ],
+  [
+   0.25,
+   -0.189
+  ],
+  [
+   0.25,
+   0.189
+  ],
+  [
+   0.249,
+   0.19
+  ],
+  [
+   -0.249,
+   0.19
+  ],
+  [
+   -0.25,
+   0.189
+  ],
+  [
+   -0.25,
+   -0.189
+  ]
+ ],
+ "clearance": {
+  "front": 0.1,
+  "back": 0.0,
+  "sides": 0.0
+ },
+ "parts": {
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.4,
+   1.4
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 3168,
+ "bytes": 37108,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

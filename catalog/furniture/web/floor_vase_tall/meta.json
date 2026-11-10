@@ -1,0 +1,152 @@
+{
+ "id": "floor_vase_tall",
+ "name": "Podlahová váza vysoká keramická Ø30",
+ "category": "doplnky",
+ "role": [
+  "vase"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "moderny-tmavy"
+ ],
+ "swapGroup": "vase",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.3,
+  0.3,
+  0.9
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   0.017,
+   -0.149
+  ],
+  [
+   0.05,
+   -0.142
+  ],
+  [
+   0.094,
+   -0.117
+  ],
+  [
+   0.117,
+   -0.094
+  ],
+  [
+   0.142,
+   -0.05
+  ],
+  [
+   0.149,
+   -0.017
+  ],
+  [
+   0.149,
+   0.017
+  ],
+  [
+   0.142,
+   0.05
+  ],
+  [
+   0.117,
+   0.094
+  ],
+  [
+   0.094,
+   0.117
+  ],
+  [
+   0.05,
+   0.142
+  ],
+  [
+   0.017,
+   0.149
+  ],
+  [
+   -0.017,
+   0.149
+  ],
+  [
+   -0.05,
+   0.142
+  ],
+  [
+   -0.094,
+   0.117
+  ],
+  [
+   -0.117,
+   0.094
+  ],
+  [
+   -0.142,
+   0.05
+  ],
+  [
+   -0.149,
+   0.017
+  ],
+  [
+   -0.149,
+   -0.017
+  ],
+  [
+   -0.142,
+   -0.05
+  ],
+  [
+   -0.117,
+   -0.094
+  ],
+  [
+   -0.094,
+   -0.117
+  ],
+  [
+   -0.05,
+   -0.142
+  ],
+  [
+   -0.017,
+   -0.149
+  ]
+ ],
+ "clearance": {
+  "front": 0.1,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "ceramic": {
+   "materialRole": "keramika",
+   "default": {
+    "mat": "ceramic_white"
+   },
+   "accepts": [
+    "ceramic",
+    "stone"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.44,
+   1.44
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 4648,
+ "bytes": 45648,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

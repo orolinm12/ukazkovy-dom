@@ -245,37 +245,6 @@
    ]
   },
   {
-   "id": "fabric_jute__d9cdb8",
-   "name": "Juta – greige",
-   "category": "fabric",
-   "maps": {
-    "albedo": "../../catalog/textures/2048/fabric_jute_albedo.webp",
-    "normal": "../../catalog/textures/2048/fabric_jute_normal.webp",
-    "rough": "../../catalog/textures/2048/fabric_jute_rough.webp"
-   },
-   "sizeM": [
-    0.274,
-    0.274
-   ],
-   "roughness": 1,
-   "metalness": 0,
-   "tint": true,
-   "source": "polyhaven:hessian_380",
-   "license": "CC0",
-   "vendor": null,
-   "code": null,
-   "url": "https://polyhaven.com/a/hessian_380",
-   "note": "odtieň #d9cdb8",
-   "color": "#d9cdb8",
-   "rho_tex": 0.3027,
-   "rho": 0.6188,
-   "mapSizes": [
-    2048,
-    1024,
-    512
-   ]
-  },
-  {
    "id": "fabric_teddy__ebe5da",
    "name": "Bouclé / teddy – krémová",
    "category": "fabric",
@@ -331,68 +300,6 @@
    "color": "#e4ddd0",
    "rho_tex": 0.6746,
    "rho": 0.7276,
-   "mapSizes": [
-    2048,
-    1024,
-    512
-   ]
-  },
-  {
-   "id": "plaster_concrete__cfc9c0",
-   "name": "Betón pohľadový – greige",
-   "category": "plaster",
-   "maps": {
-    "albedo": "../../catalog/textures/2048/plaster_concrete_albedo.webp",
-    "normal": "../../catalog/textures/2048/plaster_concrete_normal.webp",
-    "rough": "../../catalog/textures/2048/plaster_concrete_rough.webp"
-   },
-   "sizeM": [
-    2.71,
-    2.71
-   ],
-   "roughness": 1,
-   "metalness": 0,
-   "tint": true,
-   "source": "polyhaven:concrete_wall_008",
-   "license": "CC0",
-   "vendor": null,
-   "code": null,
-   "url": "https://polyhaven.com/a/concrete_wall_008",
-   "note": "odtieň #cfc9c0",
-   "color": "#cfc9c0",
-   "rho_tex": 0.2373,
-   "rho": 0.5884,
-   "mapSizes": [
-    2048,
-    1024,
-    512
-   ]
-  },
-  {
-   "id": "plaster_concrete__d6d0c6",
-   "name": "Betón pohľadový – greige svetlá",
-   "category": "plaster",
-   "maps": {
-    "albedo": "../../catalog/textures/2048/plaster_concrete_albedo.webp",
-    "normal": "../../catalog/textures/2048/plaster_concrete_normal.webp",
-    "rough": "../../catalog/textures/2048/plaster_concrete_rough.webp"
-   },
-   "sizeM": [
-    2.71,
-    2.71
-   ],
-   "roughness": 1,
-   "metalness": 0,
-   "tint": true,
-   "source": "polyhaven:concrete_wall_008",
-   "license": "CC0",
-   "vendor": null,
-   "code": null,
-   "url": "https://polyhaven.com/a/concrete_wall_008",
-   "note": "odtieň #d6d0c6",
-   "color": "#d6d0c6",
-   "rho_tex": 0.2373,
-   "rho": 0.6349,
    "mapSizes": [
     2048,
     1024,

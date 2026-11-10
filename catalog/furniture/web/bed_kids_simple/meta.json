@@ -1,0 +1,135 @@
+{
+ "id": "bed_kids_simple",
+ "name": "Detská posteľ jednoduchá dubová 90x200",
+ "category": "detska-postel",
+ "role": [
+  "kids_bed"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "kids_bed",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.081,
+  2.105,
+  0.78
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.498,
+   -1.052
+  ],
+  [
+   0.489,
+   -1.038
+  ],
+  [
+   0.514,
+   -1.037
+  ],
+  [
+   0.54,
+   -0.703
+  ],
+  [
+   0.535,
+   -0.203
+  ],
+  [
+   0.495,
+   1.046
+  ],
+  [
+   0.494,
+   1.049
+  ],
+  [
+   0.492,
+   1.052
+  ],
+  [
+   -0.492,
+   1.052
+  ],
+  [
+   -0.494,
+   1.049
+  ],
+  [
+   -0.495,
+   1.046
+  ],
+  [
+   -0.535,
+   -0.203
+  ],
+  [
+   -0.54,
+   -0.703
+  ],
+  [
+   -0.524,
+   -1.047
+  ]
+ ],
+ "clearance": {
+  "front": 0.6,
+  "back": 0.0,
+  "sides": 0.3
+ },
+ "parts": {
+  "bedding": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#efece6"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "throw": {
+   "materialRole": "textil-doplnok",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#c4a487"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   3.173,
+   3.173
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 21084,
+ "bytes": 194008,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

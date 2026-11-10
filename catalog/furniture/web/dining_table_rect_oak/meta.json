@@ -1,0 +1,153 @@
+{
+ "id": "dining_table_rect_oak",
+ "name": "Jedálenský stôl obdĺžnikový dub 200x100",
+ "category": "jedalensky-stol",
+ "role": [
+  "dining_table"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "dining_table",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  2.0,
+  1.0,
+  0.75
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.965,
+   -0.5
+  ],
+  [
+   0.965,
+   -0.5
+  ],
+  [
+   0.978,
+   -0.497
+  ],
+  [
+   0.99,
+   -0.49
+  ],
+  [
+   0.994,
+   -0.484
+  ],
+  [
+   0.999,
+   -0.472
+  ],
+  [
+   1.0,
+   -0.465
+  ],
+  [
+   1.0,
+   0.465
+  ],
+  [
+   0.997,
+   0.478
+  ],
+  [
+   0.99,
+   0.49
+  ],
+  [
+   0.984,
+   0.494
+  ],
+  [
+   0.972,
+   0.499
+  ],
+  [
+   0.965,
+   0.5
+  ],
+  [
+   -0.965,
+   0.5
+  ],
+  [
+   -0.978,
+   0.497
+  ],
+  [
+   -0.99,
+   0.49
+  ],
+  [
+   -0.994,
+   0.484
+  ],
+  [
+   -0.999,
+   0.472
+  ],
+  [
+   -1.0,
+   0.465
+  ],
+  [
+   -1.0,
+   -0.465
+  ],
+  [
+   -0.997,
+   -0.478
+  ],
+  [
+   -0.99,
+   -0.49
+  ],
+  [
+   -0.984,
+   -0.494
+  ],
+  [
+   -0.972,
+   -0.499
+  ]
+ ],
+ "clearance": {
+  "front": 0.8,
+  "back": 0.8,
+  "sides": 0.8
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   3.05,
+   3.05
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 3628,
+ "bytes": 40836,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

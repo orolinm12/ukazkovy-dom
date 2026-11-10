@@ -1,0 +1,146 @@
+{
+ "id": "mirror_leaning",
+ "name": "Veľké stojace zrkadlo v tenkom čiernom ráme",
+ "category": "zrkadlo",
+ "role": [
+  "mirror"
+ ],
+ "styles": [
+  "moderny-tmavy",
+  "svetly-skandinavsky"
+ ],
+ "swapGroup": "mirror",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.7,
+  0.05,
+  1.8
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.261,
+   -0.025
+  ],
+  [
+   0.261,
+   -0.025
+  ],
+  [
+   0.346,
+   -0.015
+  ],
+  [
+   0.348,
+   -0.014
+  ],
+  [
+   0.349,
+   -0.013
+  ],
+  [
+   0.35,
+   -0.012
+  ],
+  [
+   0.35,
+   0.012
+  ],
+  [
+   0.349,
+   0.013
+  ],
+  [
+   0.348,
+   0.014
+  ],
+  [
+   0.346,
+   0.015
+  ],
+  [
+   0.261,
+   0.025
+  ],
+  [
+   -0.261,
+   0.025
+  ],
+  [
+   -0.346,
+   0.015
+  ],
+  [
+   -0.348,
+   0.014
+  ],
+  [
+   -0.349,
+   0.013
+  ],
+  [
+   -0.35,
+   0.012
+  ],
+  [
+   -0.35,
+   -0.012
+  ],
+  [
+   -0.349,
+   -0.013
+  ],
+  [
+   -0.348,
+   -0.014
+  ],
+  [
+   -0.346,
+   -0.015
+  ]
+ ],
+ "clearance": {
+  "front": 0.3,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  },
+  "mirror": {
+   "materialRole": "sklo",
+   "default": {
+    "mat": "glass_clear",
+    "tint": "#eef1f3"
+   },
+   "accepts": [
+    "glass"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.9,
+   1.9
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 2532,
+ "bytes": 28568,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

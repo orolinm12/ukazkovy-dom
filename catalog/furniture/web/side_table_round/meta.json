@@ -1,0 +1,165 @@
+{
+ "id": "side_table_round",
+ "name": "Príručný stolík okrúhly, kameň a kov (D45)",
+ "category": "stolik",
+ "role": [
+  "side_table"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "moderny-tmavy"
+ ],
+ "swapGroup": "side_table",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.45,
+  0.45,
+  0.5
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.015,
+   -0.225
+  ],
+  [
+   0.044,
+   -0.221
+  ],
+  [
+   0.1,
+   -0.202
+  ],
+  [
+   0.137,
+   -0.179
+  ],
+  [
+   0.179,
+   -0.137
+  ],
+  [
+   0.202,
+   -0.1
+  ],
+  [
+   0.225,
+   -0.015
+  ],
+  [
+   0.221,
+   0.044
+  ],
+  [
+   0.202,
+   0.1
+  ],
+  [
+   0.179,
+   0.137
+  ],
+  [
+   0.137,
+   0.179
+  ],
+  [
+   0.1,
+   0.202
+  ],
+  [
+   0.015,
+   0.225
+  ],
+  [
+   -0.044,
+   0.221
+  ],
+  [
+   -0.1,
+   0.202
+  ],
+  [
+   -0.137,
+   0.179
+  ],
+  [
+   -0.179,
+   0.137
+  ],
+  [
+   -0.202,
+   0.1
+  ],
+  [
+   -0.225,
+   0.015
+  ],
+  [
+   -0.221,
+   -0.044
+  ],
+  [
+   -0.202,
+   -0.1
+  ],
+  [
+   -0.179,
+   -0.137
+  ],
+  [
+   -0.137,
+   -0.179
+  ],
+  [
+   -0.1,
+   -0.202
+  ]
+ ],
+ "clearance": {
+  "front": 0.1,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  },
+  "stone": {
+   "materialRole": "kamen",
+   "default": {
+    "mat": "stone_travertine"
+   },
+   "accepts": [
+    "stone",
+    "tile",
+    "wood",
+    "plaster",
+    "ceramic"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.35,
+   1.35
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 6804,
+ "bytes": 74440,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

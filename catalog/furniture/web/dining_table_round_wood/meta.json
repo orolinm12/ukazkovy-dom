@@ -1,0 +1,153 @@
+{
+ "id": "dining_table_round_wood",
+ "name": "Jedálenský stôl okrúhly drevený Ø120",
+ "category": "jedalensky-stol",
+ "role": [
+  "dining_table"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "dining_table",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.2,
+  1.2,
+  0.752
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   0.063,
+   -0.597
+  ],
+  [
+   0.272,
+   -0.535
+  ],
+  [
+   0.378,
+   -0.466
+  ],
+  [
+   0.446,
+   -0.401
+  ],
+  [
+   0.535,
+   -0.272
+  ],
+  [
+   0.593,
+   -0.094
+  ],
+  [
+   0.597,
+   0.063
+  ],
+  [
+   0.535,
+   0.272
+  ],
+  [
+   0.466,
+   0.378
+  ],
+  [
+   0.401,
+   0.446
+  ],
+  [
+   0.272,
+   0.535
+  ],
+  [
+   0.094,
+   0.593
+  ],
+  [
+   -0.063,
+   0.597
+  ],
+  [
+   -0.272,
+   0.535
+  ],
+  [
+   -0.378,
+   0.466
+  ],
+  [
+   -0.446,
+   0.401
+  ],
+  [
+   -0.535,
+   0.272
+  ],
+  [
+   -0.593,
+   0.094
+  ],
+  [
+   -0.597,
+   -0.063
+  ],
+  [
+   -0.535,
+   -0.272
+  ],
+  [
+   -0.466,
+   -0.378
+  ],
+  [
+   -0.401,
+   -0.446
+  ],
+  [
+   -0.272,
+   -0.535
+  ],
+  [
+   -0.094,
+   -0.593
+  ]
+ ],
+ "clearance": {
+  "front": 0.8,
+  "back": 0.8,
+  "sides": 0.8
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.251,
+   2.251
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 7536,
+ "bytes": 75496,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

@@ -1,0 +1,197 @@
+{
+ "id": "bed_double_platform_linen",
+ "name": "Manželská posteľ nízka dubová s ľanovým čelom",
+ "category": "postel",
+ "role": [
+  "bed"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "bed",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.913,
+  2.229,
+  1.057
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.874,
+   -1.114
+  ],
+  [
+   -0.822,
+   -1.114
+  ],
+  [
+   0.863,
+   -1.094
+  ],
+  [
+   0.89,
+   -1.09
+  ],
+  [
+   0.899,
+   -1.087
+  ],
+  [
+   0.916,
+   -1.076
+  ],
+  [
+   0.922,
+   -1.069
+  ],
+  [
+   0.929,
+   -1.051
+  ],
+  [
+   0.93,
+   -1.041
+  ],
+  [
+   0.956,
+   1.038
+  ],
+  [
+   0.956,
+   1.081
+  ],
+  [
+   0.951,
+   1.092
+  ],
+  [
+   0.943,
+   1.102
+  ],
+  [
+   0.927,
+   1.109
+  ],
+  [
+   0.827,
+   1.11
+  ],
+  [
+   0.62,
+   1.111
+  ],
+  [
+   -0.92,
+   1.11
+  ],
+  [
+   -0.942,
+   1.102
+  ],
+  [
+   -0.953,
+   1.087
+  ],
+  [
+   -0.956,
+   1.038
+  ],
+  [
+   -0.93,
+   -1.041
+  ],
+  [
+   -0.929,
+   -1.051
+  ],
+  [
+   -0.921,
+   -1.069
+  ],
+  [
+   -0.915,
+   -1.076
+  ]
+ ],
+ "clearance": {
+  "front": 0.7,
+  "back": 0.0,
+  "sides": 0.5
+ },
+ "parts": {
+  "bedding": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#efece6"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "cushion_accent": {
+   "materialRole": "textil-doplnok",
+   "default": {
+    "mat": "fabric_velvet",
+    "tint": "#7d8a6a"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "throw": {
+   "materialRole": "textil-doplnok",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#8f9a83"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   3.425,
+   3.425
+  ],
+  "offset": [
+   -0.0,
+   -0.002
+  ]
+ },
+ "tris": 24288,
+ "bytes": 231416,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

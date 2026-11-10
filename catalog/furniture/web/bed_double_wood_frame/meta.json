@@ -1,0 +1,131 @@
+{
+ "id": "bed_double_wood_frame",
+ "name": "Manželská posteľ s dreveným rámom a latkovým čelom",
+ "category": "postel",
+ "role": [
+  "bed"
+ ],
+ "styles": [
+  "prirodny-japandi"
+ ],
+ "swapGroup": "bed",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.7,
+  2.105,
+  0.9
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.845,
+   -1.053
+  ],
+  [
+   0.845,
+   -1.053
+  ],
+  [
+   0.847,
+   -1.052
+  ],
+  [
+   0.849,
+   -1.05
+  ],
+  [
+   0.85,
+   -1.047
+  ],
+  [
+   0.85,
+   1.044
+  ],
+  [
+   0.849,
+   1.048
+  ],
+  [
+   0.846,
+   1.051
+  ],
+  [
+   0.842,
+   1.053
+  ],
+  [
+   -0.842,
+   1.053
+  ],
+  [
+   -0.846,
+   1.051
+  ],
+  [
+   -0.849,
+   1.048
+  ],
+  [
+   -0.85,
+   1.044
+  ],
+  [
+   -0.85,
+   -1.047
+  ],
+  [
+   -0.849,
+   -1.05
+  ],
+  [
+   -0.847,
+   -1.052
+  ]
+ ],
+ "clearance": {
+  "front": 0.7,
+  "back": 0.0,
+  "sides": 0.5
+ },
+ "parts": {
+  "bedding": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#efece6"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   3.245,
+   3.245
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 22396,
+ "bytes": 227612,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

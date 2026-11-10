@@ -1,0 +1,153 @@
+{
+ "id": "pouf_round",
+ "name": "Puf okrúhly bukle",
+ "category": "sedacka",
+ "role": [
+  "pouf"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "pouf",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.5,
+  0.5,
+  0.419
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.001,
+   -0.25
+  ],
+  [
+   0.084,
+   -0.234
+  ],
+  [
+   0.158,
+   -0.191
+  ],
+  [
+   0.19,
+   -0.161
+  ],
+  [
+   0.226,
+   -0.106
+  ],
+  [
+   0.246,
+   -0.044
+  ],
+  [
+   0.249,
+   0.022
+  ],
+  [
+   0.241,
+   0.065
+  ],
+  [
+   0.203,
+   0.143
+  ],
+  [
+   0.174,
+   0.176
+  ],
+  [
+   0.123,
+   0.215
+  ],
+  [
+   0.084,
+   0.234
+  ],
+  [
+   -0.001,
+   0.25
+  ],
+  [
+   -0.045,
+   0.247
+  ],
+  [
+   -0.108,
+   0.228
+  ],
+  [
+   -0.179,
+   0.177
+  ],
+  [
+   -0.218,
+   0.125
+  ],
+  [
+   -0.242,
+   0.064
+  ],
+  [
+   -0.25,
+   -0.0
+  ],
+  [
+   -0.236,
+   -0.086
+  ],
+  [
+   -0.207,
+   -0.144
+  ],
+  [
+   -0.179,
+   -0.178
+  ],
+  [
+   -0.108,
+   -0.228
+  ],
+  [
+   -0.066,
+   -0.243
+  ]
+ ],
+ "clearance": {
+  "front": 0.2,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.352,
+   1.352
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 2592,
+ "bytes": 25216,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

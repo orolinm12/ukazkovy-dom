@@ -1,0 +1,143 @@
+{
+ "id": "plant_tall_cane",
+ "name": "Rastlina vysoká s kmeňmi (dracéna)",
+ "category": "rastlina",
+ "role": [
+  "plant"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "moderny-tmavy",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "plant",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.5,
+  0.5,
+  1.7
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   0.168,
+   -0.25
+  ],
+  [
+   0.213,
+   -0.169
+  ],
+  [
+   0.239,
+   -0.092
+  ],
+  [
+   0.25,
+   -0.021
+  ],
+  [
+   0.25,
+   -0.02
+  ],
+  [
+   0.141,
+   0.156
+  ],
+  [
+   0.083,
+   0.238
+  ],
+  [
+   -0.008,
+   0.25
+  ],
+  [
+   -0.108,
+   0.196
+  ],
+  [
+   -0.154,
+   0.171
+  ],
+  [
+   -0.25,
+   0.086
+  ],
+  [
+   -0.244,
+   0.0
+  ],
+  [
+   -0.228,
+   -0.047
+  ],
+  [
+   -0.193,
+   -0.107
+  ],
+  [
+   -0.125,
+   -0.152
+  ],
+  [
+   -0.073,
+   -0.185
+  ],
+  [
+   0.036,
+   -0.249
+  ]
+ ],
+ "clearance": {
+  "front": 0.1,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "bark": {
+   "materialRole": "ine",
+   "default": {
+    "mat": "paint_greige",
+    "tint": "#615547"
+   },
+   "accepts": []
+  },
+  "plant": {
+   "materialRole": "ine",
+   "default": {
+    "mat": "paint_olive"
+   },
+   "accepts": []
+  },
+  "pot": {
+   "materialRole": "keramika",
+   "default": {
+    "mat": "stone_concrete_beige"
+   },
+   "accepts": [
+    "stone",
+    "tile",
+    "wood",
+    "plaster",
+    "ceramic"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.7,
+   1.7
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 9228,
+ "bytes": 154196,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

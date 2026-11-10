@@ -1,0 +1,125 @@
+{
+ "id": "rug_runner",
+ "name": "Behúň tkaný 80x250 so strapcami",
+ "category": "koberec",
+ "role": [
+  "rug"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "moderny-tmavy",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "rug",
+ "layer": "under",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.8,
+  2.5,
+  0.013
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.167,
+   -1.25
+  ],
+  [
+   0.251,
+   -1.25
+  ],
+  [
+   0.358,
+   -1.248
+  ],
+  [
+   0.367,
+   -1.247
+  ],
+  [
+   0.398,
+   -1.165
+  ],
+  [
+   0.4,
+   -1.155
+  ],
+  [
+   0.4,
+   1.155
+  ],
+  [
+   0.385,
+   1.245
+  ],
+  [
+   0.31,
+   1.249
+  ],
+  [
+   0.216,
+   1.25
+  ],
+  [
+   -0.321,
+   1.25
+  ],
+  [
+   -0.384,
+   1.249
+  ],
+  [
+   -0.4,
+   1.155
+  ],
+  [
+   -0.4,
+   -1.155
+  ],
+  [
+   -0.398,
+   -1.165
+  ],
+  [
+   -0.365,
+   -1.246
+  ],
+  [
+   -0.355,
+   -1.247
+  ],
+  [
+   -0.335,
+   -1.248
+  ],
+  [
+   -0.296,
+   -1.249
+  ]
+ ],
+ "clearance": {
+  "front": 0.0,
+  "back": 0.0,
+  "sides": 0.0
+ },
+ "parts": {
+  "rug": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_jute",
+    "tint": "#d9cdb8"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  }
+ },
+ "shadow": null,
+ "tris": 2356,
+ "bytes": 45996,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

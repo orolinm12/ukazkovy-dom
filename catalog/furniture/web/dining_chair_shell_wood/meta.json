@@ -1,0 +1,152 @@
+{
+ "id": "dining_chair_shell_wood",
+ "name": "Jedálenská stolička s ohýbanou preglejkovou škrupinou",
+ "category": "jedalenska-stolicka",
+ "role": [
+  "dining_chair"
+ ],
+ "styles": [
+  "prirodny-japandi"
+ ],
+ "swapGroup": "dining_chair",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.505,
+  0.526,
+  0.796
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.244,
+   -0.263
+  ],
+  [
+   0.244,
+   -0.263
+  ],
+  [
+   0.246,
+   -0.25
+  ],
+  [
+   0.249,
+   -0.163
+  ],
+  [
+   0.252,
+   -0.049
+  ],
+  [
+   0.252,
+   -0.02
+  ],
+  [
+   0.247,
+   0.208
+  ],
+  [
+   0.246,
+   0.21
+  ],
+  [
+   0.214,
+   0.223
+  ],
+  [
+   0.163,
+   0.24
+  ],
+  [
+   0.113,
+   0.252
+  ],
+  [
+   0.065,
+   0.26
+  ],
+  [
+   0.016,
+   0.263
+  ],
+  [
+   -0.016,
+   0.263
+  ],
+  [
+   -0.065,
+   0.26
+  ],
+  [
+   -0.113,
+   0.252
+  ],
+  [
+   -0.163,
+   0.24
+  ],
+  [
+   -0.214,
+   0.223
+  ],
+  [
+   -0.246,
+   0.21
+  ],
+  [
+   -0.247,
+   0.208
+  ],
+  [
+   -0.252,
+   -0.02
+  ],
+  [
+   -0.252,
+   -0.049
+  ],
+  [
+   -0.249,
+   -0.163
+  ],
+  [
+   -0.246,
+   -0.25
+  ]
+ ],
+ "clearance": {
+  "front": 0.2,
+  "back": 0.1,
+  "sides": 0.05
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.604,
+   1.604
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 11132,
+ "bytes": 99564,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

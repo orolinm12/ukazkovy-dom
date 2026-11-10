@@ -1,0 +1,162 @@
+{
+ "id": "chair_task_dark",
+ "name": "Kancelárska stolička tmavá s prešívaným operadlom",
+ "category": "kancelarska-stolicka",
+ "role": [
+  "office_chair"
+ ],
+ "styles": [
+  "moderny-tmavy"
+ ],
+ "swapGroup": "office_chair",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.614,
+  0.633,
+  1.048
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.005,
+   -0.317
+  ],
+  [
+   0.005,
+   -0.317
+  ],
+  [
+   0.219,
+   -0.263
+  ],
+  [
+   0.234,
+   -0.254
+  ],
+  [
+   0.305,
+   -0.182
+  ],
+  [
+   0.307,
+   -0.178
+  ],
+  [
+   0.307,
+   0.061
+  ],
+  [
+   0.229,
+   0.3
+  ],
+  [
+   0.226,
+   0.304
+  ],
+  [
+   0.214,
+   0.313
+  ],
+  [
+   0.204,
+   0.315
+  ],
+  [
+   0.167,
+   0.316
+  ],
+  [
+   -0.056,
+   0.317
+  ],
+  [
+   -0.093,
+   0.317
+  ],
+  [
+   -0.204,
+   0.316
+  ],
+  [
+   -0.219,
+   0.311
+  ],
+  [
+   -0.227,
+   0.304
+  ],
+  [
+   -0.232,
+   0.294
+  ],
+  [
+   -0.307,
+   0.061
+  ],
+  [
+   -0.307,
+   -0.178
+  ],
+  [
+   -0.305,
+   -0.182
+  ],
+  [
+   -0.234,
+   -0.255
+  ],
+  [
+   -0.227,
+   -0.26
+  ],
+  [
+   -0.219,
+   -0.263
+  ]
+ ],
+ "clearance": {
+  "front": 0.3,
+  "back": 0.3,
+  "sides": 0.1
+ },
+ "parts": {
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.833,
+   1.833
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 18464,
+ "bytes": 180980,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

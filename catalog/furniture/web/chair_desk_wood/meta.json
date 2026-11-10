@@ -1,0 +1,152 @@
+{
+ "id": "chair_desk_wood",
+ "name": "Pracovná stolička dubová s oblým sedákom",
+ "category": "kancelarska-stolicka",
+ "role": [
+  "office_chair"
+ ],
+ "styles": [
+  "prirodny-japandi"
+ ],
+ "swapGroup": "office_chair",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.49,
+  0.509,
+  0.805
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.155,
+   -0.255
+  ],
+  [
+   0.155,
+   -0.255
+  ],
+  [
+   0.183,
+   -0.25
+  ],
+  [
+   0.196,
+   -0.245
+  ],
+  [
+   0.219,
+   -0.228
+  ],
+  [
+   0.228,
+   -0.217
+  ],
+  [
+   0.241,
+   -0.192
+  ],
+  [
+   0.245,
+   -0.165
+  ],
+  [
+   0.245,
+   0.095
+  ],
+  [
+   0.241,
+   0.123
+  ],
+  [
+   0.214,
+   0.192
+  ],
+  [
+   0.18,
+   0.246
+  ],
+  [
+   0.161,
+   0.255
+  ],
+  [
+   -0.161,
+   0.255
+  ],
+  [
+   -0.18,
+   0.246
+  ],
+  [
+   -0.214,
+   0.192
+  ],
+  [
+   -0.241,
+   0.123
+  ],
+  [
+   -0.245,
+   0.095
+  ],
+  [
+   -0.245,
+   -0.165
+  ],
+  [
+   -0.241,
+   -0.192
+  ],
+  [
+   -0.228,
+   -0.217
+  ],
+  [
+   -0.219,
+   -0.228
+  ],
+  [
+   -0.196,
+   -0.245
+  ],
+  [
+   -0.183,
+   -0.25
+  ]
+ ],
+ "clearance": {
+  "front": 0.3,
+  "back": 0.3,
+  "sides": 0.1
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.592,
+   1.592
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 7588,
+ "bytes": 72636,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

@@ -1,0 +1,163 @@
+{
+ "id": "sofa_2s_round",
+ "name": "Sedačka dvojmiestna oblá s dubovými nohami",
+ "category": "sedacka",
+ "role": [
+  "sofa"
+ ],
+ "styles": [
+  "prirodny-japandi"
+ ],
+ "swapGroup": "sofa",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.8,
+  0.899,
+  0.78
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   0.146,
+   -0.45
+  ],
+  [
+   0.47,
+   -0.448
+  ],
+  [
+   0.681,
+   -0.441
+  ],
+  [
+   0.743,
+   -0.403
+  ],
+  [
+   0.865,
+   -0.204
+  ],
+  [
+   0.899,
+   -0.063
+  ],
+  [
+   0.889,
+   0.136
+  ],
+  [
+   0.832,
+   0.256
+  ],
+  [
+   0.762,
+   0.322
+  ],
+  [
+   0.705,
+   0.356
+  ],
+  [
+   0.571,
+   0.405
+  ],
+  [
+   0.401,
+   0.435
+  ],
+  [
+   0.168,
+   0.449
+  ],
+  [
+   -0.08,
+   0.45
+  ],
+  [
+   -0.401,
+   0.435
+  ],
+  [
+   -0.571,
+   0.405
+  ],
+  [
+   -0.705,
+   0.356
+  ],
+  [
+   -0.832,
+   0.256
+  ],
+  [
+   -0.889,
+   0.136
+  ],
+  [
+   -0.899,
+   -0.063
+  ],
+  [
+   -0.865,
+   -0.204
+  ],
+  [
+   -0.742,
+   -0.403
+  ],
+  [
+   -0.681,
+   -0.44
+  ],
+  [
+   -0.421,
+   -0.449
+  ]
+ ],
+ "clearance": {
+  "front": 0.6,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.868,
+   2.868
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 18800,
+ "bytes": 187508,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

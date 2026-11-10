@@ -1,0 +1,130 @@
+{
+ "id": "dining_table_rect_dark",
+ "name": "Jedálenský stôl tmavý s oceľovými portálmi 220x95",
+ "category": "jedalensky-stol",
+ "role": [
+  "dining_table"
+ ],
+ "styles": [
+  "moderny-tmavy"
+ ],
+ "swapGroup": "dining_table",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  2.2,
+  0.95,
+  0.75
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -1.082,
+   -0.475
+  ],
+  [
+   1.082,
+   -0.475
+  ],
+  [
+   1.094,
+   -0.469
+  ],
+  [
+   1.098,
+   -0.461
+  ],
+  [
+   1.1,
+   -0.457
+  ],
+  [
+   1.1,
+   0.457
+  ],
+  [
+   1.098,
+   0.461
+  ],
+  [
+   1.094,
+   0.469
+  ],
+  [
+   1.082,
+   0.475
+  ],
+  [
+   -1.082,
+   0.475
+  ],
+  [
+   -1.094,
+   0.469
+  ],
+  [
+   -1.098,
+   0.461
+  ],
+  [
+   -1.1,
+   0.457
+  ],
+  [
+   -1.1,
+   -0.457
+  ],
+  [
+   -1.098,
+   -0.461
+  ],
+  [
+   -1.094,
+   -0.469
+  ]
+ ],
+ "clearance": {
+  "front": 0.8,
+  "back": 0.8,
+  "sides": 0.8
+ },
+ "parts": {
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   3.25,
+   3.25
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 1200,
+ "bytes": 18100,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

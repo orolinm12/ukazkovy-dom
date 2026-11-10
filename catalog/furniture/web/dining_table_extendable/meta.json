@@ -1,0 +1,152 @@
+{
+ "id": "dining_table_extendable",
+ "name": "Jedálenský stôl rozťahovací svetlý dub 160x90",
+ "category": "jedalensky-stol",
+ "role": [
+  "dining_table"
+ ],
+ "styles": [
+  "svetly-skandinavsky"
+ ],
+ "swapGroup": "dining_table",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.6,
+  0.9,
+  0.75
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.77,
+   -0.45
+  ],
+  [
+   0.77,
+   -0.45
+  ],
+  [
+   0.781,
+   -0.448
+  ],
+  [
+   0.787,
+   -0.445
+  ],
+  [
+   0.795,
+   -0.437
+  ],
+  [
+   0.798,
+   -0.431
+  ],
+  [
+   0.8,
+   -0.42
+  ],
+  [
+   0.8,
+   0.42
+  ],
+  [
+   0.798,
+   0.431
+  ],
+  [
+   0.795,
+   0.437
+  ],
+  [
+   0.787,
+   0.445
+  ],
+  [
+   0.781,
+   0.448
+  ],
+  [
+   0.77,
+   0.45
+  ],
+  [
+   -0.77,
+   0.45
+  ],
+  [
+   -0.781,
+   0.448
+  ],
+  [
+   -0.787,
+   0.445
+  ],
+  [
+   -0.795,
+   0.437
+  ],
+  [
+   -0.798,
+   0.431
+  ],
+  [
+   -0.8,
+   0.42
+  ],
+  [
+   -0.8,
+   -0.42
+  ],
+  [
+   -0.798,
+   -0.431
+  ],
+  [
+   -0.795,
+   -0.437
+  ],
+  [
+   -0.787,
+   -0.445
+  ],
+  [
+   -0.781,
+   -0.448
+  ]
+ ],
+ "clearance": {
+  "front": 0.8,
+  "back": 0.8,
+  "sides": 0.8
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.65,
+   2.65
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 3748,
+ "bytes": 40544,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

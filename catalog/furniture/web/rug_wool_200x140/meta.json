@@ -1,0 +1,145 @@
+{
+ "id": "rug_wool_200x140",
+ "name": "Koberec vlnený hladký 200x140",
+ "category": "koberec",
+ "role": [
+  "rug"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "moderny-tmavy",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "rug",
+ "layer": "under",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  2.0,
+  1.4,
+  0.012
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.965,
+   -0.7
+  ],
+  [
+   0.965,
+   -0.7
+  ],
+  [
+   0.978,
+   -0.697
+  ],
+  [
+   0.99,
+   -0.69
+  ],
+  [
+   0.994,
+   -0.684
+  ],
+  [
+   0.999,
+   -0.672
+  ],
+  [
+   1.0,
+   -0.665
+  ],
+  [
+   1.0,
+   0.665
+  ],
+  [
+   0.999,
+   0.672
+  ],
+  [
+   0.994,
+   0.684
+  ],
+  [
+   0.99,
+   0.69
+  ],
+  [
+   0.972,
+   0.699
+  ],
+  [
+   0.965,
+   0.7
+  ],
+  [
+   -0.965,
+   0.7
+  ],
+  [
+   -0.978,
+   0.697
+  ],
+  [
+   -0.99,
+   0.69
+  ],
+  [
+   -0.994,
+   0.684
+  ],
+  [
+   -0.999,
+   0.672
+  ],
+  [
+   -1.0,
+   0.665
+  ],
+  [
+   -1.0,
+   -0.665
+  ],
+  [
+   -0.999,
+   -0.672
+  ],
+  [
+   -0.994,
+   -0.684
+  ],
+  [
+   -0.99,
+   -0.69
+  ],
+  [
+   -0.972,
+   -0.699
+  ]
+ ],
+ "clearance": {
+  "front": 0.0,
+  "back": 0.0,
+  "sides": 0.0
+ },
+ "parts": {
+  "rug": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_jute",
+    "tint": "#d9cdb8"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  }
+ },
+ "shadow": null,
+ "tris": 1724,
+ "bytes": 17052,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

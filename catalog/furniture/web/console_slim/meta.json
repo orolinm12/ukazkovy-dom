@@ -1,0 +1,132 @@
+{
+ "id": "console_slim",
+ "name": "Úzky konzolový stolík, kameň a čierna oceľ",
+ "category": "konzola",
+ "role": [
+  "console"
+ ],
+ "styles": [
+  "moderny-tmavy"
+ ],
+ "swapGroup": "console",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.0,
+  0.3,
+  0.8
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.493,
+   -0.15
+  ],
+  [
+   0.493,
+   -0.15
+  ],
+  [
+   0.495,
+   -0.149
+  ],
+  [
+   0.499,
+   -0.145
+  ],
+  [
+   0.5,
+   -0.143
+  ],
+  [
+   0.5,
+   0.143
+  ],
+  [
+   0.499,
+   0.145
+  ],
+  [
+   0.495,
+   0.149
+  ],
+  [
+   0.493,
+   0.15
+  ],
+  [
+   -0.493,
+   0.15
+  ],
+  [
+   -0.495,
+   0.149
+  ],
+  [
+   -0.499,
+   0.145
+  ],
+  [
+   -0.5,
+   0.143
+  ],
+  [
+   -0.5,
+   -0.143
+  ],
+  [
+   -0.499,
+   -0.145
+  ],
+  [
+   -0.495,
+   -0.149
+  ]
+ ],
+ "clearance": {
+  "front": 0.6,
+  "back": 0.0,
+  "sides": 0.0
+ },
+ "parts": {
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  },
+  "stone": {
+   "materialRole": "kamen",
+   "default": {
+    "mat": "stone_travertine"
+   },
+   "accepts": [
+    "stone",
+    "tile",
+    "wood",
+    "plaster",
+    "ceramic"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.08,
+   2.08
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 3008,
+ "bytes": 36216,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

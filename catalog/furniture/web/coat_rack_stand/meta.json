@@ -1,0 +1,129 @@
+{
+ "id": "coat_rack_stand",
+ "name": "Stojanový vešiak na kabáty, dub",
+ "category": "doplnky",
+ "role": [
+  "coat_rack"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "coat_rack",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.504,
+  0.504,
+  1.75
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.004,
+   -0.252
+  ],
+  [
+   0.004,
+   -0.252
+  ],
+  [
+   0.008,
+   -0.25
+  ],
+  [
+   0.25,
+   -0.008
+  ],
+  [
+   0.252,
+   -0.004
+  ],
+  [
+   0.252,
+   0.004
+  ],
+  [
+   0.25,
+   0.008
+  ],
+  [
+   0.008,
+   0.25
+  ],
+  [
+   0.004,
+   0.252
+  ],
+  [
+   -0.004,
+   0.252
+  ],
+  [
+   -0.008,
+   0.25
+  ],
+  [
+   -0.134,
+   0.138
+  ],
+  [
+   -0.138,
+   0.134
+  ],
+  [
+   -0.25,
+   0.008
+  ],
+  [
+   -0.252,
+   0.004
+  ],
+  [
+   -0.252,
+   -0.004
+  ],
+  [
+   -0.25,
+   -0.008
+  ],
+  [
+   -0.008,
+   -0.25
+  ]
+ ],
+ "clearance": {
+  "front": 0.4,
+  "back": 0.1,
+  "sides": 0.2
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.704,
+   1.704
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 6120,
+ "bytes": 62592,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

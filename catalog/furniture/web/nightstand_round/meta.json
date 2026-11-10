@@ -1,0 +1,165 @@
+{
+ "id": "nightstand_round",
+ "name": "Nočný stolík okrúhly drážkovaný s kamennou doskou",
+ "category": "nocny-stolik",
+ "role": [
+  "nightstand"
+ ],
+ "styles": [
+  "moderny-tmavy"
+ ],
+ "swapGroup": "nightstand",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.45,
+  0.45,
+  0.5
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   0.039,
+   -0.222
+  ],
+  [
+   0.112,
+   -0.195
+  ],
+  [
+   0.145,
+   -0.172
+  ],
+  [
+   0.172,
+   -0.145
+  ],
+  [
+   0.195,
+   -0.112
+  ],
+  [
+   0.222,
+   -0.039
+  ],
+  [
+   0.222,
+   0.039
+  ],
+  [
+   0.195,
+   0.112
+  ],
+  [
+   0.172,
+   0.145
+  ],
+  [
+   0.145,
+   0.172
+  ],
+  [
+   0.112,
+   0.195
+  ],
+  [
+   0.039,
+   0.222
+  ],
+  [
+   -0.039,
+   0.222
+  ],
+  [
+   -0.112,
+   0.195
+  ],
+  [
+   -0.145,
+   0.172
+  ],
+  [
+   -0.172,
+   0.145
+  ],
+  [
+   -0.195,
+   0.112
+  ],
+  [
+   -0.222,
+   0.039
+  ],
+  [
+   -0.222,
+   -0.039
+  ],
+  [
+   -0.195,
+   -0.112
+  ],
+  [
+   -0.172,
+   -0.145
+  ],
+  [
+   -0.145,
+   -0.172
+  ],
+  [
+   -0.112,
+   -0.195
+  ],
+  [
+   -0.039,
+   -0.222
+  ]
+ ],
+ "clearance": {
+  "front": 0.1,
+  "back": 0.0,
+  "sides": 0.0
+ },
+ "parts": {
+  "stone": {
+   "materialRole": "kamen",
+   "default": {
+    "mat": "stone_travertine"
+   },
+   "accepts": [
+    "stone",
+    "tile",
+    "wood",
+    "plaster",
+    "ceramic"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.35,
+   1.35
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 5696,
+ "bytes": 52852,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

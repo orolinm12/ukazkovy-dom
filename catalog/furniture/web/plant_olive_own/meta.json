@@ -1,0 +1,122 @@
+{
+ "id": "plant_olive_own",
+ "name": "Olivovník v kvetináči (vlastný model)",
+ "category": "rastlina",
+ "role": [
+  "plant"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "plant",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.9,
+  0.9,
+  1.7
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.306,
+   -0.45
+  ],
+  [
+   -0.012,
+   -0.392
+  ],
+  [
+   0.295,
+   -0.246
+  ],
+  [
+   0.418,
+   -0.108
+  ],
+  [
+   0.45,
+   0.134
+  ],
+  [
+   0.173,
+   0.378
+  ],
+  [
+   0.033,
+   0.422
+  ],
+  [
+   -0.217,
+   0.45
+  ],
+  [
+   -0.265,
+   0.428
+  ],
+  [
+   -0.375,
+   0.312
+  ],
+  [
+   -0.45,
+   -0.31
+  ],
+  [
+   -0.367,
+   -0.436
+  ]
+ ],
+ "clearance": {
+  "front": 0.1,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "bark": {
+   "materialRole": "ine",
+   "default": {
+    "mat": "paint_greige",
+    "tint": "#615547"
+   },
+   "accepts": []
+  },
+  "plant": {
+   "materialRole": "ine",
+   "default": {
+    "mat": "paint_olive"
+   },
+   "accepts": []
+  },
+  "pot": {
+   "materialRole": "keramika",
+   "default": {
+    "mat": "stone_concrete_beige"
+   },
+   "accepts": [
+    "stone",
+    "tile",
+    "wood",
+    "plaster",
+    "ceramic"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.1,
+   2.1
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 20681,
+ "bytes": 382940,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

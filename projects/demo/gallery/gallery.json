@@ -1,0 +1,51 @@
+[
+ {
+  "id": "obyvacka_terasa",
+  "title": "Obývačka s výhľadom do záhrady",
+  "subtitle": "Svetlý škandinávsky · deň",
+  "file": "gallery/obyvacka_terasa.webp",
+  "thumb": "gallery/obyvacka_terasa_thumb.webp"
+ },
+ {
+  "id": "obyvacka_tv",
+  "title": "Obývačka s televíznou stenou",
+  "subtitle": "Pôvodný návrh · deň",
+  "file": "gallery/obyvacka_tv.webp",
+  "thumb": "gallery/obyvacka_tv_thumb.webp"
+ },
+ {
+  "id": "kuchyna_vecer",
+  "title": "Kuchyňa s ostrovčekom",
+  "subtitle": "Pôvodný návrh · večer",
+  "file": "gallery/kuchyna_vecer.webp",
+  "thumb": "gallery/kuchyna_vecer_thumb.webp"
+ },
+ {
+  "id": "jedalen_vecer",
+  "title": "Jedáleň",
+  "subtitle": "Pôvodný návrh · večer",
+  "file": "gallery/jedalen_vecer.webp",
+  "thumb": "gallery/jedalen_vecer_thumb.webp"
+ },
+ {
+  "id": "obyvacka_tmava_vecer",
+  "title": "Obývačka večer",
+  "subtitle": "Moderný tmavý · večer",
+  "file": "gallery/obyvacka_tmava_vecer.webp",
+  "thumb": "gallery/obyvacka_tmava_vecer_thumb.webp"
+ },
+ {
+  "id": "spalna_vecer",
+  "title": "Spálňa",
+  "subtitle": "Pôvodný návrh · večer",
+  "file": "gallery/spalna_vecer.webp",
+  "thumb": "gallery/spalna_vecer_thumb.webp"
+ },
+ {
+  "id": "kupelna_vecer",
+  "title": "Kúpeľňa",
+  "subtitle": "Pôvodný návrh · večer",
+  "file": "gallery/kupelna_vecer.webp",
+  "thumb": "gallery/kupelna_vecer_thumb.webp"
+ }
+]

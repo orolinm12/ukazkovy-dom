@@ -1,0 +1,164 @@
+{
+ "id": "sofa_3s_slim",
+ "name": "Sedačka trojmiestna štíhla s dubovými nohami",
+ "category": "sedacka",
+ "role": [
+  "sofa"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "sofa",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  2.204,
+  0.898,
+  0.795
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.073,
+   -0.449
+  ],
+  [
+   1.046,
+   -0.448
+  ],
+  [
+   1.062,
+   -0.444
+  ],
+  [
+   1.074,
+   -0.434
+  ],
+  [
+   1.101,
+   -0.397
+  ],
+  [
+   1.102,
+   -0.394
+  ],
+  [
+   1.102,
+   0.394
+  ],
+  [
+   1.101,
+   0.397
+  ],
+  [
+   1.074,
+   0.434
+  ],
+  [
+   1.069,
+   0.44
+  ],
+  [
+   1.054,
+   0.447
+  ],
+  [
+   1.046,
+   0.448
+  ],
+  [
+   0.296,
+   0.449
+  ],
+  [
+   -1.033,
+   0.449
+  ],
+  [
+   -1.055,
+   0.447
+  ],
+  [
+   -1.062,
+   0.445
+  ],
+  [
+   -1.074,
+   0.434
+  ],
+  [
+   -1.101,
+   0.397
+  ],
+  [
+   -1.102,
+   0.394
+  ],
+  [
+   -1.102,
+   -0.394
+  ],
+  [
+   -1.101,
+   -0.397
+  ],
+  [
+   -1.074,
+   -0.434
+  ],
+  [
+   -1.062,
+   -0.444
+  ],
+  [
+   -1.046,
+   -0.447
+  ]
+ ],
+ "clearance": {
+  "front": 0.6,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   3.281,
+   3.281
+  ],
+  "offset": [
+   0.0,
+   -0.0
+  ]
+ },
+ "tris": 26893,
+ "bytes": 271808,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

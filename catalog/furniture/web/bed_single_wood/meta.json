@@ -1,0 +1,132 @@
+{
+ "id": "bed_single_wood",
+ "name": "Jednolôžková posteľ drevená s trojlatkovým čelom 90x200",
+ "category": "postel",
+ "role": [
+  "bed"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "bed",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.0,
+  2.05,
+  0.8
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.495,
+   -1.025
+  ],
+  [
+   0.495,
+   -1.025
+  ],
+  [
+   0.497,
+   -1.024
+  ],
+  [
+   0.499,
+   -1.022
+  ],
+  [
+   0.5,
+   -1.02
+  ],
+  [
+   0.5,
+   1.02
+  ],
+  [
+   0.499,
+   1.022
+  ],
+  [
+   0.497,
+   1.024
+  ],
+  [
+   0.495,
+   1.025
+  ],
+  [
+   -0.495,
+   1.025
+  ],
+  [
+   -0.497,
+   1.024
+  ],
+  [
+   -0.499,
+   1.022
+  ],
+  [
+   -0.5,
+   1.02
+  ],
+  [
+   -0.5,
+   -1.02
+  ],
+  [
+   -0.499,
+   -1.022
+  ],
+  [
+   -0.497,
+   -1.024
+  ]
+ ],
+ "clearance": {
+  "front": 0.7,
+  "back": 0.0,
+  "sides": 0.5
+ },
+ "parts": {
+  "bedding": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#efece6"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   3.13,
+   3.13
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 18868,
+ "bytes": 174740,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

@@ -1,0 +1,164 @@
+{
+ "id": "dining_chair_wood",
+ "name": "Jedálenská stolička dubová s výpletom",
+ "category": "jedalenska-stolicka",
+ "role": [
+  "dining_chair"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "dining_chair",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.453,
+  0.506,
+  0.786
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.221,
+   -0.253
+  ],
+  [
+   0.221,
+   -0.253
+  ],
+  [
+   0.225,
+   -0.251
+  ],
+  [
+   0.226,
+   -0.247
+  ],
+  [
+   0.226,
+   -0.232
+  ],
+  [
+   0.215,
+   0.206
+  ],
+  [
+   0.214,
+   0.21
+  ],
+  [
+   0.21,
+   0.213
+  ],
+  [
+   0.161,
+   0.231
+  ],
+  [
+   0.124,
+   0.241
+  ],
+  [
+   0.074,
+   0.249
+  ],
+  [
+   0.037,
+   0.252
+  ],
+  [
+   0.012,
+   0.253
+  ],
+  [
+   -0.012,
+   0.253
+  ],
+  [
+   -0.037,
+   0.252
+  ],
+  [
+   -0.074,
+   0.249
+  ],
+  [
+   -0.124,
+   0.241
+  ],
+  [
+   -0.161,
+   0.231
+  ],
+  [
+   -0.21,
+   0.213
+  ],
+  [
+   -0.214,
+   0.21
+  ],
+  [
+   -0.215,
+   0.206
+  ],
+  [
+   -0.226,
+   -0.232
+  ],
+  [
+   -0.226,
+   -0.247
+  ],
+  [
+   -0.225,
+   -0.251
+  ]
+ ],
+ "clearance": {
+  "front": 0.2,
+  "back": 0.1,
+  "sides": 0.05
+ },
+ "parts": {
+  "seat": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d9d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.577,
+   1.577
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 10664,
+ "bytes": 92772,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

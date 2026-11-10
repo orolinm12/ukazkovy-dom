@@ -1,0 +1,167 @@
+{
+ "id": "table_lamp_ceramic",
+ "name": "Stolná lampa s keramickou tekvicovou podstavou",
+ "category": "svietidlo",
+ "role": [
+  "table_lamp"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "table_lamp",
+ "layer": "floor",
+ "movable": true,
+ "emits": true,
+ "dims": [
+  0.25,
+  0.25,
+  0.45
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   0.008,
+   -0.125
+  ],
+  [
+   0.032,
+   -0.121
+  ],
+  [
+   0.055,
+   -0.112
+  ],
+  [
+   0.082,
+   -0.094
+  ],
+  [
+   0.112,
+   -0.055
+  ],
+  [
+   0.121,
+   -0.032
+  ],
+  [
+   0.125,
+   0.008
+  ],
+  [
+   0.121,
+   0.032
+  ],
+  [
+   0.112,
+   0.055
+  ],
+  [
+   0.094,
+   0.082
+  ],
+  [
+   0.055,
+   0.112
+  ],
+  [
+   0.032,
+   0.121
+  ],
+  [
+   -0.008,
+   0.125
+  ],
+  [
+   -0.032,
+   0.121
+  ],
+  [
+   -0.055,
+   0.112
+  ],
+  [
+   -0.082,
+   0.094
+  ],
+  [
+   -0.112,
+   0.055
+  ],
+  [
+   -0.121,
+   0.032
+  ],
+  [
+   -0.125,
+   -0.008
+  ],
+  [
+   -0.121,
+   -0.032
+  ],
+  [
+   -0.112,
+   -0.055
+  ],
+  [
+   -0.094,
+   -0.082
+  ],
+  [
+   -0.055,
+   -0.112
+  ],
+  [
+   -0.032,
+   -0.121
+  ]
+ ],
+ "clearance": {
+  "front": 0.0,
+  "back": 0.0,
+  "sides": 0.0
+ },
+ "parts": {
+  "ceramic": {
+   "materialRole": "keramika",
+   "default": {
+    "mat": "ceramic_white"
+   },
+   "accepts": [
+    "ceramic",
+    "stone"
+   ]
+  },
+  "emit": {
+   "materialRole": "svietiace",
+   "default": {
+    "mat": null,
+    "tint": "#ffdcac"
+   },
+   "accepts": []
+  },
+  "shade": {
+   "materialRole": "tienidlo",
+   "default": {
+    "mat": "paper_white"
+   },
+   "accepts": []
+  }
+ },
+ "shadow": {
+  "size": [
+   1.12,
+   1.12
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 8008,
+ "bytes": 75952,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

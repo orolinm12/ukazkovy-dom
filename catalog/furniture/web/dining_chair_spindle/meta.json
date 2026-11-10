@@ -1,0 +1,152 @@
+{
+ "id": "dining_chair_spindle",
+ "name": "Jedálenská stolička s prútovým operadlom svetlé drevo",
+ "category": "jedalenska-stolicka",
+ "role": [
+  "dining_chair"
+ ],
+ "styles": [
+  "svetly-skandinavsky"
+ ],
+ "swapGroup": "dining_chair",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.483,
+  0.501,
+  0.801
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.228,
+   -0.25
+  ],
+  [
+   0.228,
+   -0.25
+  ],
+  [
+   0.231,
+   -0.249
+  ],
+  [
+   0.233,
+   -0.247
+  ],
+  [
+   0.235,
+   -0.244
+  ],
+  [
+   0.237,
+   -0.241
+  ],
+  [
+   0.241,
+   0.225
+  ],
+  [
+   0.241,
+   0.231
+  ],
+  [
+   0.239,
+   0.237
+  ],
+  [
+   0.235,
+   0.242
+  ],
+  [
+   0.23,
+   0.244
+  ],
+  [
+   0.224,
+   0.245
+  ],
+  [
+   0.034,
+   0.25
+  ],
+  [
+   -0.034,
+   0.25
+  ],
+  [
+   -0.224,
+   0.245
+  ],
+  [
+   -0.23,
+   0.244
+  ],
+  [
+   -0.235,
+   0.242
+  ],
+  [
+   -0.239,
+   0.237
+  ],
+  [
+   -0.241,
+   0.231
+  ],
+  [
+   -0.241,
+   0.225
+  ],
+  [
+   -0.237,
+   -0.241
+  ],
+  [
+   -0.235,
+   -0.244
+  ],
+  [
+   -0.233,
+   -0.247
+  ],
+  [
+   -0.231,
+   -0.249
+  ]
+ ],
+ "clearance": {
+  "front": 0.2,
+  "back": 0.1,
+  "sides": 0.05
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.582,
+   1.582
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 6520,
+ "bytes": 65968,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

@@ -1,0 +1,168 @@
+{
+ "id": "floor_lamp_linen",
+ "name": "Stojaca lampa s ľanovým tienidlom na dubovom trojnožke",
+ "category": "svietidlo",
+ "role": [
+  "floor_lamp"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "floor_lamp",
+ "layer": "floor",
+ "movable": true,
+ "emits": true,
+ "dims": [
+  0.45,
+  0.45,
+  1.601
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.015,
+   -0.225
+  ],
+  [
+   0.044,
+   -0.221
+  ],
+  [
+   0.1,
+   -0.202
+  ],
+  [
+   0.137,
+   -0.179
+  ],
+  [
+   0.179,
+   -0.137
+  ],
+  [
+   0.202,
+   -0.1
+  ],
+  [
+   0.225,
+   -0.015
+  ],
+  [
+   0.221,
+   0.044
+  ],
+  [
+   0.202,
+   0.1
+  ],
+  [
+   0.179,
+   0.137
+  ],
+  [
+   0.137,
+   0.179
+  ],
+  [
+   0.1,
+   0.202
+  ],
+  [
+   0.015,
+   0.225
+  ],
+  [
+   -0.044,
+   0.221
+  ],
+  [
+   -0.1,
+   0.202
+  ],
+  [
+   -0.137,
+   0.179
+  ],
+  [
+   -0.179,
+   0.137
+  ],
+  [
+   -0.202,
+   0.1
+  ],
+  [
+   -0.225,
+   0.015
+  ],
+  [
+   -0.221,
+   -0.044
+  ],
+  [
+   -0.202,
+   -0.1
+  ],
+  [
+   -0.179,
+   -0.137
+  ],
+  [
+   -0.137,
+   -0.179
+  ],
+  [
+   -0.1,
+   -0.202
+  ]
+ ],
+ "clearance": {
+  "front": 0.2,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "emit": {
+   "materialRole": "svietiace",
+   "default": {
+    "mat": null,
+    "tint": "#ffdcac"
+   },
+   "accepts": []
+  },
+  "shade": {
+   "materialRole": "tienidlo",
+   "default": {
+    "mat": "paper_white"
+   },
+   "accepts": []
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.65,
+   1.65
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 4056,
+ "bytes": 48508,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

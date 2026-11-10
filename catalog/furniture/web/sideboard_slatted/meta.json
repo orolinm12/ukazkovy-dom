@@ -1,0 +1,121 @@
+{
+ "id": "sideboard_slatted",
+ "name": "Nízka komoda s lamelovými dvierkami, svetlý dub",
+ "category": "komoda",
+ "role": [
+  "dresser",
+  "tv_console"
+ ],
+ "styles": [
+  "prirodny-japandi"
+ ],
+ "swapGroup": "dresser",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.8,
+  0.45,
+  0.75
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.89,
+   -0.225
+  ],
+  [
+   0.89,
+   -0.225
+  ],
+  [
+   0.893,
+   -0.223
+  ],
+  [
+   0.896,
+   -0.221
+  ],
+  [
+   0.9,
+   -0.215
+  ],
+  [
+   0.9,
+   0.215
+  ],
+  [
+   0.896,
+   0.221
+  ],
+  [
+   0.893,
+   0.223
+  ],
+  [
+   0.89,
+   0.225
+  ],
+  [
+   -0.89,
+   0.225
+  ],
+  [
+   -0.893,
+   0.223
+  ],
+  [
+   -0.896,
+   0.221
+  ],
+  [
+   -0.9,
+   0.215
+  ],
+  [
+   -0.9,
+   -0.215
+  ],
+  [
+   -0.896,
+   -0.221
+  ],
+  [
+   -0.893,
+   -0.223
+  ]
+ ],
+ "clearance": {
+  "front": 0.7,
+  "back": 0.0,
+  "sides": 0.0
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.85,
+   2.85
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 7320,
+ "bytes": 85392,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

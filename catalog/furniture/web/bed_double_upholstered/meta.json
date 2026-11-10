@@ -1,0 +1,174 @@
+{
+ "id": "bed_double_upholstered",
+ "name": "Manželská posteľ čalúnená s kanálovým čelom 160x200",
+ "category": "postel",
+ "role": [
+  "bed"
+ ],
+ "styles": [
+  "moderny-tmavy"
+ ],
+ "swapGroup": "bed",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.801,
+  2.146,
+  1.11
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   0.024,
+   -1.073
+  ],
+  [
+   0.317,
+   -1.072
+  ],
+  [
+   0.854,
+   -1.068
+  ],
+  [
+   0.874,
+   -1.062
+  ],
+  [
+   0.889,
+   -1.047
+  ],
+  [
+   0.895,
+   -1.027
+  ],
+  [
+   0.899,
+   -0.529
+  ],
+  [
+   0.9,
+   -0.231
+  ],
+  [
+   0.9,
+   0.068
+  ],
+  [
+   0.898,
+   1.032
+  ],
+  [
+   0.891,
+   1.054
+  ],
+  [
+   0.874,
+   1.068
+  ],
+  [
+   0.854,
+   1.073
+  ],
+  [
+   -0.854,
+   1.073
+  ],
+  [
+   -0.874,
+   1.067
+  ],
+  [
+   -0.891,
+   1.054
+  ],
+  [
+   -0.898,
+   1.032
+  ],
+  [
+   -0.9,
+   0.167
+  ],
+  [
+   -0.9,
+   -0.48
+  ],
+  [
+   -0.896,
+   -0.977
+  ],
+  [
+   -0.895,
+   -1.027
+  ],
+  [
+   -0.889,
+   -1.047
+  ],
+  [
+   -0.865,
+   -1.07
+  ],
+  [
+   -0.317,
+   -1.072
+  ]
+ ],
+ "clearance": {
+  "front": 0.7,
+  "back": 0.0,
+  "sides": 0.5
+ },
+ "parts": {
+  "bedding": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#efece6"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "cushion": {
+   "materialRole": "textil-doplnok",
+   "default": {
+    "mat": "fabric_teddy",
+    "tint": "#e6dfd2"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   3.346,
+   3.346
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 26872,
+ "bytes": 254300,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

@@ -1,0 +1,144 @@
+{
+ "id": "rug_round",
+ "name": "Koberec okrúhly vlnený Ø200",
+ "category": "koberec",
+ "role": [
+  "rug"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "rug",
+ "layer": "under",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  2.0,
+  2.0,
+  0.013
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   0.195,
+   -0.981
+  ],
+  [
+   0.383,
+   -0.924
+  ],
+  [
+   0.659,
+   -0.752
+  ],
+  [
+   0.752,
+   -0.659
+  ],
+  [
+   0.924,
+   -0.383
+  ],
+  [
+   0.981,
+   -0.195
+  ],
+  [
+   0.998,
+   0.065
+  ],
+  [
+   0.924,
+   0.383
+  ],
+  [
+   0.752,
+   0.659
+  ],
+  [
+   0.659,
+   0.752
+  ],
+  [
+   0.383,
+   0.924
+  ],
+  [
+   0.195,
+   0.981
+  ],
+  [
+   -0.065,
+   0.998
+  ],
+  [
+   -0.383,
+   0.924
+  ],
+  [
+   -0.659,
+   0.752
+  ],
+  [
+   -0.752,
+   0.659
+  ],
+  [
+   -0.924,
+   0.383
+  ],
+  [
+   -0.981,
+   0.195
+  ],
+  [
+   -0.998,
+   -0.065
+  ],
+  [
+   -0.924,
+   -0.383
+  ],
+  [
+   -0.752,
+   -0.659
+  ],
+  [
+   -0.659,
+   -0.752
+  ],
+  [
+   -0.383,
+   -0.924
+  ],
+  [
+   -0.065,
+   -0.998
+  ]
+ ],
+ "clearance": {
+  "front": 0.0,
+  "back": 0.0,
+  "sides": 0.0
+ },
+ "parts": {
+  "rug": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_jute",
+    "tint": "#d9cdb8"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  }
+ },
+ "shadow": null,
+ "tris": 9980,
+ "bytes": 90336,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

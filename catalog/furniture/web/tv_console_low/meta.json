@@ -1,0 +1,131 @@
+{
+ "id": "tv_console_low",
+ "name": "TV komoda nízka s lamelovými dvierkami",
+ "category": "komoda",
+ "role": [
+  "tv_console"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "moderny-tmavy"
+ ],
+ "swapGroup": "tv_console",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  2.0,
+  0.45,
+  0.45
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.969,
+   -0.225
+  ],
+  [
+   0.969,
+   -0.225
+  ],
+  [
+   0.997,
+   -0.204
+  ],
+  [
+   0.999,
+   -0.202
+  ],
+  [
+   1.0,
+   -0.2
+  ],
+  [
+   1.0,
+   0.22
+  ],
+  [
+   0.999,
+   0.222
+  ],
+  [
+   0.997,
+   0.224
+  ],
+  [
+   0.995,
+   0.225
+  ],
+  [
+   -0.995,
+   0.225
+  ],
+  [
+   -0.997,
+   0.224
+  ],
+  [
+   -0.999,
+   0.222
+  ],
+  [
+   -1.0,
+   0.22
+  ],
+  [
+   -1.0,
+   -0.2
+  ],
+  [
+   -0.999,
+   -0.202
+  ],
+  [
+   -0.997,
+   -0.204
+  ]
+ ],
+ "clearance": {
+  "front": 0.5,
+  "back": 0.0,
+  "sides": 0.05
+ },
+ "parts": {
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.87,
+   2.87
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 4048,
+ "bytes": 64832,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

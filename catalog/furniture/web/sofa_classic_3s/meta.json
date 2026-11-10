@@ -1,0 +1,175 @@
+{
+ "id": "sofa_classic_3s",
+ "name": "Sedačka trojmiestna klasická + taburet",
+ "category": "sedacka",
+ "role": [
+  "sofa"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "sofa",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  2.621,
+  1.765,
+  0.926
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   0.635,
+   -0.882
+  ],
+  [
+   0.873,
+   -0.879
+  ],
+  [
+   0.984,
+   -0.874
+  ],
+  [
+   1.029,
+   -0.831
+  ],
+  [
+   1.3,
+   -0.082
+  ],
+  [
+   1.304,
+   -0.042
+  ],
+  [
+   1.31,
+   0.219
+  ],
+  [
+   1.309,
+   0.655
+  ],
+  [
+   1.304,
+   0.818
+  ],
+  [
+   1.295,
+   0.866
+  ],
+  [
+   1.275,
+   0.878
+  ],
+  [
+   1.16,
+   0.881
+  ],
+  [
+   0.573,
+   0.881
+  ],
+  [
+   -1.24,
+   0.88
+  ],
+  [
+   -1.288,
+   0.873
+  ],
+  [
+   -1.301,
+   0.853
+  ],
+  [
+   -1.308,
+   0.543
+  ],
+  [
+   -1.307,
+   0.13
+  ],
+  [
+   -1.304,
+   -0.042
+  ],
+  [
+   -1.297,
+   -0.086
+  ],
+  [
+   -1.283,
+   -0.099
+  ],
+  [
+   0.102,
+   -0.868
+  ],
+  [
+   0.125,
+   -0.876
+  ],
+  [
+   0.261,
+   -0.88
+  ]
+ ],
+ "clearance": {
+  "front": 0.6,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "cushion": {
+   "materialRole": "textil-doplnok",
+   "default": {
+    "mat": "fabric_teddy",
+    "tint": "#e6dfd2"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   3.774,
+   3.774
+  ],
+  "offset": [
+   0.001,
+   -0.001
+  ]
+ },
+ "tris": 27961,
+ "bytes": 278604,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

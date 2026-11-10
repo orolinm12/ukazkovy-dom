@@ -1,0 +1,99 @@
+{
+ "id": "bookshelf_open",
+ "name": "Otvorená knižnica, dub s oceľovým zadným pásom",
+ "category": "kniznica",
+ "role": [
+  "bookcase"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "moderny-tmavy"
+ ],
+ "swapGroup": "bookcase",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.9,
+  0.35,
+  2.0
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.448,
+   -0.175
+  ],
+  [
+   0.448,
+   -0.175
+  ],
+  [
+   0.45,
+   -0.173
+  ],
+  [
+   0.45,
+   0.173
+  ],
+  [
+   0.448,
+   0.175
+  ],
+  [
+   -0.448,
+   0.175
+  ],
+  [
+   -0.45,
+   0.173
+  ],
+  [
+   -0.45,
+   -0.173
+  ]
+ ],
+ "clearance": {
+  "front": 0.6,
+  "back": 0.0,
+  "sides": 0.0
+ },
+ "parts": {
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.1,
+   2.1
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 3852,
+ "bytes": 39460,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

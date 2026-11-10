@@ -1,0 +1,120 @@
+{
+ "id": "bench_dining",
+ "name": "Jedálenská lavica drevená s oblúkovými bokmi 140",
+ "category": "stolicka",
+ "role": [
+  "bench"
+ ],
+ "styles": [
+  "prirodny-japandi"
+ ],
+ "swapGroup": "bench",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.4,
+  0.38,
+  0.45
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.684,
+   -0.19
+  ],
+  [
+   0.684,
+   -0.19
+  ],
+  [
+   0.691,
+   -0.187
+  ],
+  [
+   0.697,
+   -0.181
+  ],
+  [
+   0.7,
+   -0.174
+  ],
+  [
+   0.7,
+   0.174
+  ],
+  [
+   0.697,
+   0.181
+  ],
+  [
+   0.691,
+   0.187
+  ],
+  [
+   0.684,
+   0.19
+  ],
+  [
+   -0.684,
+   0.19
+  ],
+  [
+   -0.691,
+   0.187
+  ],
+  [
+   -0.697,
+   0.181
+  ],
+  [
+   -0.7,
+   0.174
+  ],
+  [
+   -0.7,
+   -0.174
+  ],
+  [
+   -0.697,
+   -0.181
+  ],
+  [
+   -0.691,
+   -0.187
+  ]
+ ],
+ "clearance": {
+  "front": 0.4,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.27,
+   2.27
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 1928,
+ "bytes": 24360,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

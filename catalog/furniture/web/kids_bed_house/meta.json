@@ -1,0 +1,131 @@
+{
+ "id": "kids_bed_house",
+ "name": "Detská posteľ domček s ostrým strieškovým rámom 90x200",
+ "category": "detska-postel",
+ "role": [
+  "kids_bed"
+ ],
+ "styles": [
+  "svetly-skandinavsky"
+ ],
+ "swapGroup": "kids_bed",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.0,
+  2.05,
+  1.6
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.495,
+   -1.025
+  ],
+  [
+   0.495,
+   -1.025
+  ],
+  [
+   0.497,
+   -1.024
+  ],
+  [
+   0.499,
+   -1.022
+  ],
+  [
+   0.5,
+   -1.02
+  ],
+  [
+   0.5,
+   1.02
+  ],
+  [
+   0.499,
+   1.022
+  ],
+  [
+   0.497,
+   1.024
+  ],
+  [
+   0.495,
+   1.025
+  ],
+  [
+   -0.495,
+   1.025
+  ],
+  [
+   -0.497,
+   1.024
+  ],
+  [
+   -0.499,
+   1.022
+  ],
+  [
+   -0.5,
+   1.02
+  ],
+  [
+   -0.5,
+   -1.02
+  ],
+  [
+   -0.499,
+   -1.022
+  ],
+  [
+   -0.497,
+   -1.024
+  ]
+ ],
+ "clearance": {
+  "front": 0.6,
+  "back": 0.0,
+  "sides": 0.3
+ },
+ "parts": {
+  "bedding": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#efece6"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   3.25,
+   3.25
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 21128,
+ "bytes": 205988,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

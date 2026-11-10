@@ -1,0 +1,146 @@
+{
+ "id": "desk_metal_dark",
+ "name": "Písací stôl orech s čiernym oceľovým rámom 140x70",
+ "category": "pisaci-stol",
+ "role": [
+  "desk"
+ ],
+ "styles": [
+  "moderny-tmavy"
+ ],
+ "swapGroup": "desk",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.4,
+  0.7,
+  0.75
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.684,
+   -0.35
+  ],
+  [
+   0.684,
+   -0.35
+  ],
+  [
+   0.691,
+   -0.347
+  ],
+  [
+   0.694,
+   -0.344
+  ],
+  [
+   0.697,
+   -0.341
+  ],
+  [
+   0.7,
+   -0.334
+  ],
+  [
+   0.7,
+   0.334
+  ],
+  [
+   0.697,
+   0.341
+  ],
+  [
+   0.694,
+   0.344
+  ],
+  [
+   0.691,
+   0.347
+  ],
+  [
+   0.684,
+   0.35
+  ],
+  [
+   -0.684,
+   0.35
+  ],
+  [
+   -0.691,
+   0.347
+  ],
+  [
+   -0.694,
+   0.344
+  ],
+  [
+   -0.697,
+   0.341
+  ],
+  [
+   -0.7,
+   0.334
+  ],
+  [
+   -0.7,
+   -0.334
+  ],
+  [
+   -0.697,
+   -0.341
+  ],
+  [
+   -0.694,
+   -0.344
+  ],
+  [
+   -0.691,
+   -0.347
+  ]
+ ],
+ "clearance": {
+  "front": 0.8,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  },
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.45,
+   2.45
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 1760,
+ "bytes": 23972,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

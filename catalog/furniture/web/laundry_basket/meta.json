@@ -1,0 +1,152 @@
+{
+ "id": "laundry_basket",
+ "name": "Kôš na bielizeň textilný mäkký s uškami",
+ "category": "doplnky",
+ "role": [
+  "basket"
+ ],
+ "styles": [
+  "prirodny-japandi"
+ ],
+ "swapGroup": "basket",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.403,
+  0.396,
+  0.546
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.001,
+   -0.198
+  ],
+  [
+   0.025,
+   -0.195
+  ],
+  [
+   0.073,
+   -0.174
+  ],
+  [
+   0.115,
+   -0.147
+  ],
+  [
+   0.131,
+   -0.128
+  ],
+  [
+   0.171,
+   -0.068
+  ],
+  [
+   0.201,
+   -0.011
+  ],
+  [
+   0.201,
+   0.018
+  ],
+  [
+   0.174,
+   0.076
+  ],
+  [
+   0.141,
+   0.128
+  ],
+  [
+   0.125,
+   0.147
+  ],
+  [
+   0.095,
+   0.169
+  ],
+  [
+   0.037,
+   0.191
+  ],
+  [
+   -0.001,
+   0.198
+  ],
+  [
+   -0.063,
+   0.188
+  ],
+  [
+   -0.097,
+   0.17
+  ],
+  [
+   -0.164,
+   0.113
+  ],
+  [
+   -0.179,
+   0.091
+  ],
+  [
+   -0.201,
+   0.018
+  ],
+  [
+   -0.201,
+   -0.011
+  ],
+  [
+   -0.154,
+   -0.099
+  ],
+  [
+   -0.126,
+   -0.139
+  ],
+  [
+   -0.087,
+   -0.172
+  ],
+  [
+   -0.04,
+   -0.194
+  ]
+ ],
+ "clearance": {
+  "front": 0.1,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.331,
+   1.331
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 7360,
+ "bytes": 76640,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

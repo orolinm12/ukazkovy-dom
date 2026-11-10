@@ -1,0 +1,162 @@
+{
+ "id": "bar_stool_metal",
+ "name": "Barová stolička s čiernym oceľovým stĺpom a čalúneným sedákom",
+ "category": "stolicka",
+ "role": [
+  "bar_stool"
+ ],
+ "styles": [
+  "moderny-tmavy"
+ ],
+ "swapGroup": "bar_stool",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  0.4,
+  0.4,
+  0.75
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   0.035,
+   -0.197
+  ],
+  [
+   0.085,
+   -0.181
+  ],
+  [
+   0.115,
+   -0.164
+  ],
+  [
+   0.153,
+   -0.129
+  ],
+  [
+   0.181,
+   -0.085
+  ],
+  [
+   0.197,
+   -0.035
+  ],
+  [
+   0.197,
+   0.035
+  ],
+  [
+   0.181,
+   0.085
+  ],
+  [
+   0.164,
+   0.115
+  ],
+  [
+   0.129,
+   0.153
+  ],
+  [
+   0.085,
+   0.181
+  ],
+  [
+   0.035,
+   0.197
+  ],
+  [
+   -0.035,
+   0.197
+  ],
+  [
+   -0.085,
+   0.181
+  ],
+  [
+   -0.115,
+   0.164
+  ],
+  [
+   -0.153,
+   0.129
+  ],
+  [
+   -0.181,
+   0.085
+  ],
+  [
+   -0.197,
+   0.035
+  ],
+  [
+   -0.197,
+   -0.035
+  ],
+  [
+   -0.181,
+   -0.085
+  ],
+  [
+   -0.164,
+   -0.115
+  ],
+  [
+   -0.129,
+   -0.153
+  ],
+  [
+   -0.085,
+   -0.181
+  ],
+  [
+   -0.035,
+   -0.197
+  ]
+ ],
+ "clearance": {
+  "front": 0.2,
+  "back": 0.1,
+  "sides": 0.05
+ },
+ "parts": {
+  "fabric": {
+   "materialRole": "textil-hlavny",
+   "default": {
+    "mat": "fabric_linen",
+    "tint": "#d8d0c3"
+   },
+   "accepts": [
+    "fabric",
+    "leather"
+   ]
+  },
+  "metal": {
+   "materialRole": "kov",
+   "default": {
+    "mat": "metal_black"
+   },
+   "accepts": [
+    "metal",
+    "lacquer"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   1.45,
+   1.45
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 6768,
+ "bytes": 68412,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}

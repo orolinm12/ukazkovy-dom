@@ -1,0 +1,137 @@
+{
+ "id": "desk_wood_drawer",
+ "name": "Písací stôl drevený so zásuvkou 120x60",
+ "category": "pisaci-stol",
+ "role": [
+  "desk"
+ ],
+ "styles": [
+  "svetly-skandinavsky",
+  "prirodny-japandi"
+ ],
+ "swapGroup": "desk",
+ "layer": "floor",
+ "movable": true,
+ "emits": false,
+ "dims": [
+  1.2,
+  0.6,
+  0.75
+ ],
+ "mount": "floor",
+ "footprint": [
+  [
+   -0.582,
+   -0.3
+  ],
+  [
+   0.582,
+   -0.3
+  ],
+  [
+   0.586,
+   -0.298
+  ],
+  [
+   0.594,
+   -0.294
+  ],
+  [
+   0.596,
+   -0.29
+  ],
+  [
+   0.6,
+   -0.282
+  ],
+  [
+   0.6,
+   0.282
+  ],
+  [
+   0.596,
+   0.29
+  ],
+  [
+   0.594,
+   0.294
+  ],
+  [
+   0.586,
+   0.298
+  ],
+  [
+   0.582,
+   0.3
+  ],
+  [
+   -0.582,
+   0.3
+  ],
+  [
+   -0.586,
+   0.298
+  ],
+  [
+   -0.594,
+   0.294
+  ],
+  [
+   -0.596,
+   0.29
+  ],
+  [
+   -0.6,
+   0.282
+  ],
+  [
+   -0.6,
+   -0.282
+  ],
+  [
+   -0.596,
+   -0.29
+  ],
+  [
+   -0.594,
+   -0.294
+  ],
+  [
+   -0.586,
+   -0.298
+  ]
+ ],
+ "clearance": {
+  "front": 0.8,
+  "back": 0.0,
+  "sides": 0.1
+ },
+ "parts": {
+  "wood": {
+   "materialRole": "drevo",
+   "default": {
+    "mat": "wood_oak"
+   },
+   "accepts": [
+    "wood",
+    "lacquer",
+    "paint"
+   ]
+  }
+ },
+ "shadow": {
+  "size": [
+   2.25,
+   2.25
+  ],
+  "offset": [
+   0.0,
+   0.0
+  ]
+ },
+ "tris": 3140,
+ "bytes": 37344,
+ "provenance": "vlastný návrh (bez predlohy)",
+ "marketingOk": true,
+ "license": "own"
+}
